@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T16:39:33.204Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Finally getting some decent weather tomorrow, looks like it will hit 27 degrees in the city.",
+      "followUpQuestion": "Do you have any outdoor plans to take advantage of it?",
+      "whyItMatters": "It is a great opportunity to enjoy comfortable temperatures before conditions change.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york",
+        "outdoor"
+      ],
+      "keywords": [
+        "weather",
+        "new york",
+        "temperature",
+        "forecast",
+        "spring",
+        "outdoor",
+        "partly cloudy"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-09-05T16:36:24.742Z"
+    },
+    {
+      "id": "87bbf972ab9b",
+      "opener": "I saw some new guidelines are coming out to crack down on fake discounts and misleading retail sales.",
+      "followUpQuestion": "Do you usually trust sale prices, or do you always check price histories before buying?",
+      "whyItMatters": "It helps us spot marketing tricks and make smarter shopping decisions.",
+      "mode": "both",
+      "categoryTags": [
+        "industry",
+        "shopping",
+        "consumer rights",
+        "retail"
+      ],
+      "keywords": [
+        "discounts",
+        "sales",
+        "retail",
+        "shopping",
+        "bargains",
+        "consumer",
+        "pricing"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/05/discount-deal-price-reduction-rules-uk-retailers",
+      "publishedAt": "2026-09-05T12:00:35Z"
+    },
+    {
+      "id": "5ed4b70a6b85",
+      "opener": "I saw some banks are practically bribing people with free cash and gadgets to switch accounts. Makes you wonder if it is actually a hassle.",
+      "followUpQuestion": "Have you ever switched your bank just to grab one of those sign-up bonuses?",
+      "whyItMatters": "Bank switching offers are a common financial perk that everyone has an opinion on.",
+      "mode": "both",
+      "categoryTags": [
+        "industry",
+        "finance",
+        "banking",
+        "money"
+      ],
+      "keywords": [
+        "bank account",
+        "switching",
+        "cash bonus",
+        "finances",
+        "money",
+        "perks"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/05/swich-bank-accounts-gift-free-toothbrush",
+      "publishedAt": "2026-09-05T06:00:29Z"
+    },
+    {
+      "id": "86d3f4a2af78",
+      "opener": "Did you see that Fox News just pulled Maria Bartiromo from her show?",
+      "followUpQuestion": "Do you think cable networks are finally trying to move past all those old election lawsuits?",
+      "whyItMatters": "It signals a major shift in media strategy regarding high-profile legal controversies.",
+      "mode": "work",
+      "categoryTags": [
+        "economy",
+        "media",
+        "news",
+        "business"
+      ],
+      "keywords": [
+        "fox news",
+        "maria bartiromo",
+        "media",
+        "defamation",
+        "dominion",
+        "broadcasting",
+        "television"
+      ],
+      "sourceName": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
+      "publishedAt": "2026-09-05T05:04:11-04:00"
+    },
+    {
+      "id": "c7402b6c40c9",
+      "opener": "Did you see Volkswagen is finally dealing with its massive labor costs by cutting thousands of jobs?",
+      "followUpQuestion": "Do you think legacy carmakers can actually pivot fast enough to survive?",
+      "whyItMatters": "It highlights the massive struggles traditional manufacturing giants face in a changing global market.",
+      "mode": "work",
+      "categoryTags": [
+        "economy",
+        "business",
+        "automotive"
+      ],
+      "keywords": [
+        "volkswagen",
+        "unions",
+        "jobs",
+        "manufacturing",
+        "economy",
+        "germany",
+        "restructuring"
+      ],
+      "sourceName": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/business/volkswagen-jobs-layoffs-restructuring-future.html",
+      "publishedAt": "2026-09-05T05:03:56-04:00"
+    },
+    {
+      "id": "13df1348d632",
+      "opener": "Did you see that massive development plan in California got blocked again?",
+      "followUpQuestion": "Do you think local opposition is the biggest hurdle to fixing housing shortages, or just poor planning?",
+      "whyItMatters": "It highlights the ongoing friction between high-profile investments and local regulations in major housing markets.",
+      "mode": "both",
+      "categoryTags": [
+        "economy",
+        "housing",
+        "california",
+        "real estate"
+      ],
+      "keywords": [
+        "shipyard",
+        "housing",
+        "manufacturing",
+        "california",
+        "legislative",
+        "development",
+        "billionaires"
+      ],
+      "sourceName": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/business/economy/california-forever-shipyard-newsom.html",
+      "publishedAt": "2026-09-05T05:01:01-04:00"
+    },
+    {
+      "id": "53e7ebd69520",
+      "opener": "I just went down a weird rabbit hole reading about the actual differences between palm oil and palmolein oil.",
+      "followUpQuestion": "Do you ever actually check the labels on cooking oils to see what is in them?",
+      "whyItMatters": "It highlights the subtle differences in everyday ingredients we consume without thinking.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "health",
+        "food",
+        "nutrition"
+      ],
+      "keywords": [
+        "palm oil",
+        "palmolein oil",
+        "cooking oil",
+        "ingredients",
+        "nutrition",
+        "health",
+        "diet"
+      ],
+      "sourceName": "Fusion - Werindia",
+      "sourceUrl": "https://fusion.werindia.com/grandma-medicine/palm-oil-vs-palmolein-oil-differences-benefits-and-side-effects",
+      "publishedAt": "2026-09-05T04:36:00.000Z"
+    },
+    {
+      "id": "d1e70b96f4af",
+      "opener": "Did you catch how Cleburne County's football team blew past White Plains with those huge plays on Friday?",
+      "followUpQuestion": "Do you think relying on explosive plays is a winning strategy for the rest of their season?",
+      "whyItMatters": "It highlights how high-risk, high-reward tactics can completely dictate the momentum of a high school game.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "football",
+        "high school sports"
+      ],
+      "keywords": [
+        "cleburne county",
+        "white plains",
+        "prep football",
+        "explosive plays",
+        "tigers",
+        "friday night"
+      ],
+      "sourceName": "Anniston Star",
+      "sourceUrl": "https://www.annistonstar.com/sports/high_school/prep-football-cleburne-county-uses-explosive-plays-to-down-white-plains/article_9f369efd-34f8-401d-b530-9419af8b6a14.html",
+      "publishedAt": "2026-09-05T04:36:00.000Z"
+    },
+    {
+      "id": "ffe4fa297cf9",
+      "opener": "Did you see that the Cookham Fun Regatta is happening today with actual dragon boat races?",
+      "followUpQuestion": "Have you ever been to one of those traditional river regattas before?",
+      "whyItMatters": "It highlights a historic local tradition dating back to the 19th century that brings the community together for a fun weekend out.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "events",
+        "community",
+        "local"
+      ],
+      "keywords": [
+        "dragon boat",
+        "regatta",
+        "cookham",
+        "festival",
+        "marsh meadow",
+        "weekend"
+      ],
+      "sourceName": "Windsor Express",
+      "sourceUrl": "https://www.windsorexpress.co.uk/gallery/events/709130/dragon-boat-racing-and-attractions-at-this-year-s-cookham-fun-regatta.html",
+      "publishedAt": "2026-09-05T04:36:00.000Z"
+    },
+    {
+      "id": "b001d0de7949",
+      "opener": "Did you see that the big amateur golf championship is back in Ireland for the first time in nearly twenty years?",
+      "followUpQuestion": "Are you planning to head down to Lahinch to catch any of the action?",
+      "whyItMatters": "It is a rare and major home-soil event drawing massive crowds for top-tier amateur golf.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "golf",
+        "ireland"
+      ],
+      "keywords": [
+        "golf",
+        "lahinch",
+        "tournament",
+        "amateur",
+        "grehan",
+        "spectators",
+        "championship"
+      ],
+      "sourceName": "Irish Examiner",
+      "sourceUrl": "https://www.irishexaminer.com/sport/gaa/arid-41906962.html",
+      "publishedAt": "2026-09-05T04:36:00.000Z"
+    },
+    {
+      "id": "ab8d972de38c",
+      "opener": "Did you see how dominant the Panthers looked in their season opener?",
+      "followUpQuestion": "Do you think they can actually keep up that kind of momentum all season?",
+      "whyItMatters": "It sets the tone for the local sports season and gets everyone talking about championship hopes early on.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "sports",
+        "football",
+        "panthers"
+      ],
+      "keywords": [
+        "panthers",
+        "season opener",
+        "football",
+        "sports",
+        "game",
+        "team"
+      ],
+      "sourceName": "Derbyinformer.com",
+      "sourceUrl": "https://www.derbyinformer.com/sports/derby_sports/panthers-roll-in-season-opener/article_0b707de9-2db7-4970-8ea4-c0b10b064dae.html",
+      "publishedAt": "2026-09-05T04:36:00.000Z"
+    },
+    {
+      "id": "b5660fd1250d",
+      "opener": "It is wild how the director of Hanuman Ansh faced such harsh rejections from streaming platforms before the movie became a massive box office hit.",
+      "followUpQuestion": "Do you think word-of-mouth is finally becoming more powerful than big studio backing?",
+      "whyItMatters": "It highlights the unpredictable nature of the film industry and how underdog projects can still win big.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "movies",
+        "box office"
+      ],
+      "keywords": [
+        "hanuman ansh",
+        "director",
+        "ott rejection",
+        "sleeper hit",
+        "box office",
+        "word of mouth",
+        "sequel"
+      ],
+      "sourceName": "Mid-day",
+      "sourceUrl": "https://www.mid-day.com/entertainment/bollywood-news/article/hanuman-ansh-director-recalls-derogatory-ott-rejection-as-film-turns-sleeper-hit-23648471",
+      "publishedAt": "2026-09-05T04:35:54.000Z"
+    },
+    {
+      "id": "c7384eeac766",
+      "opener": "Did you see how close that Forest Park game got? They barely held on against Washington.",
+      "followUpQuestion": "Do you think they have what it takes to beat Tecumseh next week?",
+      "whyItMatters": "It highlights a thrilling, nail-biting finish for an undefeated team heading into a big matchup.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "football",
+        "high school sports"
+      ],
+      "keywords": [
+        "forest park",
+        "washington",
+        "rangers",
+        "tecumseh",
+        "victory",
+        "undefeated",
+        "football"
+      ],
+      "sourceName": "Yahoo! News",
+      "sourceUrl": "https://sports.yahoo.com/articles/forest-park-clings-onto-victory-043554387.html",
+      "publishedAt": "2026-09-05T04:35:54.000Z"
+    },
+    {
+      "id": "4070bb1bafc6",
+      "opener": "I was just looking at upcoming university events and saw Calvin is hosting a webinar on student housing options soon.",
+      "followUpQuestion": "Did you have to deal with a lot of stress finding housing when you were heading off to school?",
+      "whyItMatters": "Navigating student living arrangements is a major milestone for families, making it a relatable topic for anyone who has experienced campus life.",
+      "mode": "social",
+      "categoryTags": [
+        "business",
+        "education",
+        "housing",
+        "university"
+      ],
+      "keywords": [
+        "student housing",
+        "webinar",
+        "university",
+        "college",
+        "admissions",
+        "campus living"
+      ],
+      "sourceName": "Calvin University",
+      "sourceUrl": "https://calvin.edu/events/family-webinar-housing-1805238000-0",
+      "publishedAt": "2026-09-05T04:35:52.000Z"
+    },
+    {
+      "id": "a0c53f166a44",
+      "opener": "Did you see that recent clampdown on Iranian oil exports? It looks like those sanctions are finally putting a massive squeeze on their economy.",
+      "followUpQuestion": "Do you think economic pressure like this is actually effective at changing government behavior, or does it usually just hurt regular citizens?",
+      "whyItMatters": "It highlights how modern financial sanctions and energy market controls are shifting global geopolitics without military conflict.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "economy",
+        "geopolitics",
+        "oil"
+      ],
+      "keywords": [
+        "iran",
+        "oil exports",
+        "sanctions",
+        "economy",
+        "global trade",
+        "geopolitics",
+        "energy"
+      ],
+      "sourceName": "Mid-day",
+      "sourceUrl": "https://www.mid-day.com/news/india-news/article/us-iran-conflict-us-squeezes-irans-economy-by-targeting-oil-exports-and-international-financial-networks-23648432",
+      "publishedAt": "2026-09-05T04:35:51.000Z"
+    },
+    {
+      "id": "f8e0614c59cd",
+      "opener": "Did you see that the US cattle herd just hit a 75-year low right as new executive orders on the beef industry get signed?",
+      "followUpQuestion": "Do you think these rules will actually help smaller farms compete with the big meat packers?",
+      "whyItMatters": "It directly impacts grocery prices and how independent food producers operate in the market.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "agriculture",
+        "economy"
+      ],
+      "keywords": [
+        "beef",
+        "cattle",
+        "industry",
+        "orders",
+        "meat",
+        "agriculture",
+        "economy"
+      ],
+      "sourceName": "Mid-day",
+      "sourceUrl": "https://www.mid-day.com/news/world-news/article/trump-orders-beef-industry-overhaul-as-us-allows-limited-imports-from-argentina-and-brazil-23648465",
+      "publishedAt": "2026-09-05T04:35:51.000Z"
+    },
+    {
+      "id": "d873cca4723f",
+      "opener": "NASA is already mapping out plans to chase the Moon's shadow for a total solar eclipse coming up in September 2026.",
+      "followUpQuestion": "Would you ever travel just to catch a total solar eclipse, or is that too much effort?",
+      "whyItMatters": "Solar eclipses are rare spectacles that capture global attention and spark wanderlust.",
+      "mode": "social",
+      "categoryTags": [
+        "science",
+        "space",
+        "astronomy",
+        "travel"
+      ],
+      "keywords": [
+        "eclipse",
+        "nasa",
+        "moon",
+        "sun",
+        "shadow",
+        "2026",
+        "astronomy"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CTElST1FtX0hVdlFmSzd4WGVHc0lVVDNBLXZheXRNVjlldlBsOXRVa042Rld0NFRRcXlEbTd2eHRPNVhsRUF4aGhZMzZTRTdRVGc?oc=5",
+      "publishedAt": "2026-09-05T04:35:49.000Z"
+    },
+    {
+      "id": "60c9d6b1287e",
+      "opener": "Did you see that Jay-Z surprised Beyonce on stage during her London show for her birthday?",
+      "followUpQuestion": "Would you want a massive public shoutout like that, or would you prefer something super low-key?",
+      "whyItMatters": "It captures a major pop culture moment involving two of the biggest music icons.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "music",
+        "celebrity",
+        "concert"
+      ],
+      "keywords": [
+        "beyonce",
+        "jay-z",
+        "london",
+        "concert",
+        "birthday",
+        "surprise",
+        "music"
+      ],
+      "sourceName": "Ary News",
+      "sourceUrl": "https://arynews.tv/beyonce-gets-birthday-surprise-from-jay-z-during-london-concert",
+      "publishedAt": "2026-09-05T04:35:38.000Z"
+    },
+    {
+      "id": "d74367cf833b",
+      "opener": "I saw that massive cosmetics exhibition is packed today at the ICCB.",
+      "followUpQuestion": "Have you ever checked out one of those huge beauty expos, or is that not really your thing?",
+      "whyItMatters": "It highlights the booming beauty industry and massive consumer trends right in our city.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "beauty",
+        "events",
+        "exhibition"
+      ],
+      "keywords": [
+        "cosmetics",
+        "exhibition",
+        "iccb",
+        "beauty expo",
+        "crowds",
+        "makeup"
+      ],
+      "sourceName": "Daily Sun",
+      "sourceUrl": "https://www.daily-sun.com/ds-lifestyle/896067",
+      "publishedAt": "2026-09-05T04:34:57.000Z"
+    },
+    {
+      "id": "52b3d4f25bed",
+      "opener": "Did you see that trademark battle over the old Twitter name? Apparently, a judge just ruled on what the rival company can actually call itself.",
+      "followUpQuestion": "Do you think companies should be able to hold onto old branding like that after a massive rebrand?",
+      "whyItMatters": "It highlights the bizarre lingering value and legal gray areas of tech history as brands pivot.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "business",
+        "law"
+      ],
+      "keywords": [
+        "twitter",
+        "x",
+        "trademark",
+        "lawsuit",
+        "branding",
+        "startupnews"
+      ],
+      "sourceName": "Startupnews",
+      "sourceUrl": "https://startupnews.fyi/social-media/judge-blocks-x-rival-from-using-twitter-name-in-court",
+      "publishedAt": "2026-09-05T04:33:18.000Z"
+    },
+    {
+      "id": "4c990314e2e9",
+      "opener": "Did you see that scientists found an actual cave inside a pit on the Moon?",
+      "followUpQuestion": "Do you think we will ever see underground moon bases in our lifetime?",
+      "whyItMatters": "It opens up exciting possibilities for future human habitation and lunar exploration shelters.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "space",
+        "astronomy"
+      ],
+      "keywords": [
+        "moon",
+        "cave",
+        "lava tube",
+        "space",
+        "science",
+        "exploration"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmh5U3lWNTlncHRfTlU4NGN1bTBYenUwU1JkVHAwb3o1XzF0UnpvbnRhUnIxQ2paVElydWp0QUhnRDR5X2NJS2syc3p5OTZSMW5UOHVUcnhhaEZZT1pZS21kZTVRb2FlZmxBbUxUR2VHamJib1VGZ01IdDc4ZnpPMWhhZw?oc=5",
+      "publishedAt": "2026-09-05T04:32:28.000Z"
+    },
+    {
+      "id": "a9385a0cb583",
+      "opener": "Did you catch that crazy Padres and Yankees game last night? Campusano totally sealed the deal in the tenth.",
+      "followUpQuestion": "Do you think the Padres can actually make a deep run in the wild card this year?",
+      "whyItMatters": "It highlights an exciting extra-innings showdown between two major baseball teams.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "sports",
+        "baseball",
+        "mlb"
+      ],
+      "keywords": [
+        "padres",
+        "yankees",
+        "campusano",
+        "homerun",
+        "baseball",
+        "mlb",
+        "sports"
+      ],
+      "sourceName": "Dailyrecordnews",
+      "sourceUrl": "https://www.dailyrecordnews.com/sports/mariners/luis-campusanos-2-run-homer-in-10th-lifts-padres-to-3-2-win-over-yankees/article_5827c0ab-7a88-5a55-85de-76d0a0a8b8cf.html",
+      "publishedAt": "2026-09-05T04:32:12.000Z"
+    },
+    {
+      "id": "728b58b99e10",
+      "opener": "Xiaomi just came out with a new blender that actually promises to be quiet and make smoother soy milk.",
+      "followUpQuestion": "Would you ever upgrade your kitchen gadgets just for a quieter morning routine?",
+      "whyItMatters": "Kitchen tech upgrades that solve annoying problems like loud noise are always a fun topic for home cooks.",
+      "mode": "social",
+      "categoryTags": [
+        "tech",
+        "home",
+        "kitchen"
+      ],
+      "keywords": [
+        "xiaomi",
+        "blender",
+        "kitchen",
+        "gadgets",
+        "appliance",
+        "soy milk"
+      ],
+      "sourceName": "Gizmochina",
+      "sourceUrl": "https://www.gizmochina.com/2026/09/05/xiaomis-mijia-blender-3-cuts-noise-and-locks-in-fresher-soy-milk/",
+      "publishedAt": "2026-09-05T04:31:07.000Z"
+    },
+    {
+      "id": "31ad45c1ee9a",
+      "opener": "Did you read about that person who turned the tables on a phone scammer and strung them along just for fun?",
+      "followUpQuestion": "Have you ever tried messing with a scammer when they called you?",
+      "whyItMatters": "It is a hilarious and satisfying take on dealing with annoying fraud calls.",
+      "mode": "social",
+      "categoryTags": [
+        "industry",
+        "scams",
+        "humor",
+        "technology"
+      ],
+      "keywords": [
+        "scammer",
+        "fraud",
+        "revenge",
+        "phone call",
+        "prank",
+        "funny",
+        "money"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/04/have-a-little-fun-scamming-the-scammers",
+      "publishedAt": "2026-09-04T16:54:12Z"
+    }
+  ]
+}
