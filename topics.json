@@ -1,0 +1,589 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-26T17:41:58.428Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Looks like we are in for a soggy Tuesday around New York with steady rain and temperatures stuck in the mid-fifties.",
+      "followUpQuestion": "Do you have to commute through the worst of the rain tomorrow, or are you planning to work from home?",
+      "whyItMatters": "Weather shifts instantly impact daily commutes and mood, making it an easy way to check in on someone's routine.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york",
+        "rain"
+      ],
+      "keywords": [
+        "new york",
+        "rain",
+        "forecast",
+        "temperature",
+        "commute",
+        "weather"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-09-26T17:38:48.363Z"
+    },
+    {
+      "id": "9cde60646274",
+      "opener": "I just read about all the weird perks you unlock at different milestone birthdays in Britain, starting as young as 14.",
+      "followUpQuestion": "If you could instantly unlock one age-related perk right now, which age milestone would you jump to?",
+      "whyItMatters": "It is a fun way to compare cultural quirks about growing older and daydream about future perks.",
+      "mode": "social",
+      "categoryTags": [
+        "industry",
+        "lifestyle",
+        "milestones",
+        "culture"
+      ],
+      "keywords": [
+        "birthday",
+        "age",
+        "deals",
+        "discounts",
+        "milestone",
+        "britain"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/26/happy-birthday-what-deals-and-discounts-does-your-age-unlock",
+      "publishedAt": "2026-09-26T07:00:30Z"
+    },
+    {
+      "id": "df766c25582a",
+      "opener": "I was reading about those three brothers who moved to Norwich in the 1860s and built a massive local business that only closed down recently.",
+      "followUpQuestion": "Do you think it is harder for family-run businesses to survive today compared to back then?",
+      "whyItMatters": "It highlights the rise and fall of local high street institutions and family enterprise.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "local history",
+        "retail"
+      ],
+      "keywords": [
+        "norwich",
+        "brothers",
+        "shop",
+        "business",
+        "retail",
+        "history",
+        "family"
+      ],
+      "sourceName": "Edp24",
+      "sourceUrl": "https://www.edp24.co.uk/news/26579193.derek-james-looking-back-history-curls-norwich/",
+      "publishedAt": "2026-09-26T05:38:00.000Z"
+    },
+    {
+      "id": "8821abdc7fe9",
+      "opener": "Did you see that guy who has spent the last 25 years performing as Dolly Parton? Talk about dedication.",
+      "followUpQuestion": "If you had to impersonate one celebrity for a quarter of a century, who would you pick?",
+      "whyItMatters": "It highlights extreme fandom and the enduring cultural impact of a legendary icon.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "music",
+        "pop culture"
+      ],
+      "keywords": [
+        "dolly parton",
+        "impersonator",
+        "tribute",
+        "performance",
+        "legacy",
+        "celebrity"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/utah-performer-dedicates-decades-to-dolly-parton-88156196",
+      "publishedAt": "2026-09-26T05:38:00.000Z"
+    },
+    {
+      "id": "af2d6ffa50db",
+      "opener": "Did you see that Carnegie just picked up the Tourism Professional of the Year award?",
+      "followUpQuestion": "Where is the absolute best place you have visited around here lately?",
+      "whyItMatters": "It highlights local talent and great spots to visit.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "travel",
+        "awards",
+        "localnews"
+      ],
+      "keywords": [
+        "carnegie",
+        "tourism",
+        "award",
+        "travel",
+        "professional"
+      ],
+      "sourceName": "Timesdaily",
+      "sourceUrl": "https://www.timesdaily.com/news/local/carnegie-named-tourism-profesional-of-the-year/article_bbd261ff-2ee3-4e3a-8086-3ff8e9b1370d.html",
+      "publishedAt": "2026-09-26T05:38:00.000Z"
+    },
+    {
+      "id": "5f3c026e99b1",
+      "opener": "Did you see that local high school football race in Idaho is down to just two undefeated teams?",
+      "followUpQuestion": "Do you usually follow the regional prep sports, or do you have a team you always root for?",
+      "whyItMatters": "It highlights the intense competition and excitement of the local high school football season.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "football",
+        "local"
+      ],
+      "keywords": [
+        "high school",
+        "football",
+        "pirates",
+        "hornets",
+        "undefeated",
+        "idaho",
+        "sports"
+      ],
+      "sourceName": "Hjnews",
+      "sourceUrl": "https://www.hjnews.com/sports/school/prep-football-pirates-earn-big-road-win-over-hornets-preston-tests-sugar-salem/article_d3873938-a750-4895-9c8f-b952678deb91.html",
+      "publishedAt": "2026-09-26T05:38:00.000Z"
+    },
+    {
+      "id": "f8e5e1994293",
+      "opener": "Did you see that local high school running back ran for a massive 262 yards this week?",
+      "followUpQuestion": "Were you ever into high school sports or Friday night games growing up?",
+      "whyItMatters": "It highlights an incredible breakout athletic performance by a local student.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "sports",
+        "high school football",
+        "local news"
+      ],
+      "keywords": [
+        "football",
+        "rushing yards",
+        "trenton lynch",
+        "high school",
+        "sports",
+        "upstate",
+        "game"
+      ],
+      "sourceName": "The Greenville News",
+      "sourceUrl": "https://www.greenvilleonline.com/story/sports/high-school/2026/09/26/sc-high-school-football-top-performers-upstate-week-6/91824836007/",
+      "publishedAt": "2026-09-26T05:37:57.000Z"
+    },
+    {
+      "id": "132cc356685a",
+      "opener": "Did you catch the start of the new international football matches? Zidane and Mancini both had totally opposite debuts.",
+      "followUpQuestion": "Do you think Zidane is going to turn this team into an unstoppable force?",
+      "whyItMatters": "It marks a massive shakeup in international coaching with two legendary figures starting their new chapters.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "soccer",
+        "sports",
+        "football"
+      ],
+      "keywords": [
+        "mbappe",
+        "zidane",
+        "mancini",
+        "italy",
+        "belgium",
+        "football",
+        "soccer"
+      ],
+      "sourceName": "Bdnews24.com",
+      "sourceUrl": "https://bdnews24.com/sport/n6ps1e3w8c",
+      "publishedAt": "2026-09-26T05:37:55.000Z"
+    },
+    {
+      "id": "1f82d907e53b",
+      "opener": "Did you see who got appointed to head the Kerala Film Welfare Fund Board and the cultural academies?",
+      "followUpQuestion": "Do you usually follow these kinds of cultural board appointments?",
+      "whyItMatters": "It highlights major leadership shifts in regional arts and film organizations.",
+      "mode": "work",
+      "categoryTags": [
+        "entertainment",
+        "cinema",
+        "leadership"
+      ],
+      "keywords": [
+        "film welfare fund",
+        "kerala",
+        "appointments",
+        "chairman",
+        "entertainment",
+        "culture"
+      ],
+      "sourceName": "Kerala Kaumudi Online",
+      "sourceUrl": "https://keralakaumudi.com/en/news/kerala/general/prem-kumar-to-be-ksfdc-chairman-1807897",
+      "publishedAt": "2026-09-26T05:37:48.000Z"
+    },
+    {
+      "id": "cfefb30c3fec",
+      "opener": "I saw the National Traders’ Welfare Board is pushing for a single, centralized loan portal to speed up credit for MSMEs.",
+      "followUpQuestion": "Do you think a centralized platform will actually cut through the bureaucratic red tape for small businesses?",
+      "whyItMatters": "Access to fast capital is often the make-or-break factor for small business survival and growth.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "msme"
+      ],
+      "keywords": [
+        "traders",
+        "welfare",
+        "board",
+        "loan",
+        "portal",
+        "credit",
+        "msme"
+      ],
+      "sourceName": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/national-traders-welfare-board-pushes-centralised-loan-portal-faster-msme-credit/articleshow/134498247.cms",
+      "publishedAt": "2026-09-26T05:37:47.000Z"
+    },
+    {
+      "id": "b85155a90735",
+      "opener": "Did you see that classic racing anime Future GPX Cyber Formula is getting a brand new short film next month?",
+      "followUpQuestion": "Were you ever into those classic 90s racing mecha anime, or did that era pass you by?",
+      "whyItMatters": "It taps into nostalgia for vintage anime fans and shows how long-running franchises still find ways to release new content.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "anime",
+        "movies"
+      ],
+      "keywords": [
+        "anime",
+        "cyber formula",
+        "mecha",
+        "racing",
+        "ova",
+        "remaster",
+        "nostalgia"
+      ],
+      "sourceName": "Anime News Network",
+      "sourceUrl": "https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205",
+      "publishedAt": "2026-09-26T05:37:39.000Z"
+    },
+    {
+      "id": "36ceb0353dcf",
+      "opener": "Did you catch the finish of the women's kabaddi final? India pulled off a crazy 37-34 win against Iran to grab gold.",
+      "followUpQuestion": "Have you been following any of the other matches at the Asian Games?",
+      "whyItMatters": "It highlights an intense, high-stakes final in a fast-growing regional sport.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "asian games"
+      ],
+      "keywords": [
+        "kabaddi",
+        "india",
+        "iran",
+        "gold medal",
+        "asian games",
+        "sports"
+      ],
+      "sourceName": "Moneycontrol",
+      "sourceUrl": "https://www.moneycontrol.com/sports/india-women-s-kabaddi-team-beat-iran-37-34-to-win-gold-medal-at-asian-games-article-14038723.html",
+      "publishedAt": "2026-09-26T05:37:32.000Z"
+    },
+    {
+      "id": "d2606655ac14",
+      "opener": "Did you see that incredible cricket match where India A women chased down a massive 363-run target against Australia?",
+      "followUpQuestion": "Do you usually follow women's cricket, or were you as surprised by that record-breaking score as I was?",
+      "whyItMatters": "It highlights a historic athletic achievement and a thrilling series win in women's cricket.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "cricket",
+        "india"
+      ],
+      "keywords": [
+        "cricket",
+        "india a",
+        "australia a",
+        "record chase",
+        "women's sports",
+        "series win",
+        "mohali"
+      ],
+      "sourceName": "Yes Punjab News",
+      "sourceUrl": "https://yespunjab.com/india-a-women-complete-record-chase-of-363-against-australia-a-clinch-50-over-series-2-1/",
+      "publishedAt": "2026-09-26T05:37:29.000Z"
+    },
+    {
+      "id": "bb5ecf42260b",
+      "opener": "Did you see that massive overnight drone wave in Ukraine? Apparently, they used over 170 unmanned aircraft, including new jet-powered models.",
+      "followUpQuestion": "How do you think defense systems are going to keep adapting to these massive swarms?",
+      "whyItMatters": "It highlights a major escalation in the scale and tech used in modern aerial warfare.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "technology",
+        "conflict",
+        "defense"
+      ],
+      "keywords": [
+        "ukraine",
+        "russia",
+        "drones",
+        "shahed",
+        "uav",
+        "warfare",
+        "military tech"
+      ],
+      "sourceName": "Biztoc",
+      "sourceUrl": "https://biztoc.com/x/2faa6bac59d29976",
+      "publishedAt": "2026-09-26T05:37:12.000Z"
+    },
+    {
+      "id": "53126bd10a7e",
+      "opener": "Did you see where 30-year mortgage rates just climbed past 7% again?",
+      "followUpQuestion": "Do you think the housing market is going to completely freeze up because of this?",
+      "whyItMatters": "Housing affordability directly impacts major life decisions and the broader economy.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "housing",
+        "economy",
+        "finance",
+        "real estate"
+      ],
+      "keywords": [
+        "mortgage",
+        "rates",
+        "housing",
+        "inflation",
+        "economy",
+        "real estate",
+        "loans"
+      ],
+      "sourceName": "Biztoc",
+      "sourceUrl": "https://biztoc.com/x/0031aeffa393361e",
+      "publishedAt": "2026-09-26T05:37:08.000Z"
+    },
+    {
+      "id": "9d5811eac405",
+      "opener": "Did you see that Azerbaijan's president claims they could wipe out their entire foreign debt in a single day?",
+      "followUpQuestion": "Do you think any major economy could realistically pull that off today?",
+      "whyItMatters": "It highlights rare fiscal optimism and sovereign debt management strategies in a shaky global economy.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "economy",
+        "finance",
+        "global politics"
+      ],
+      "keywords": [
+        "azerbaijan",
+        "external debt",
+        "president",
+        "ilham aliyev",
+        "baku",
+        "economy",
+        "investment"
+      ],
+      "sourceName": "Report.az",
+      "sourceUrl": "https://report.az/en/finance/ilham-aliyev-azerbaijan-s-external-debt-is-at-a-very-low-level-could-be-reduced-to-zero-in-one-day",
+      "publishedAt": "2026-09-26T05:37:07.000Z"
+    },
+    {
+      "id": "283295c27362",
+      "opener": "Did you see that hacking group ShinyHunters apparently breached data from both the FBI and the Defense Department?",
+      "followUpQuestion": "How do you think high-profile agencies keep getting their HR systems compromised like that?",
+      "whyItMatters": "It highlights major ongoing vulnerabilities in federal cybersecurity and personnel data protection.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "cybersecurity",
+        "hacking",
+        "fbi",
+        "defense"
+      ],
+      "keywords": [
+        "fbi",
+        "dod",
+        "data breach",
+        "shinyhunters",
+        "hacking",
+        "cybersecurity",
+        "hegseth"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/fbi-and-dod-hit-by-data-breaches-as-hacking-group-88156167",
+      "publishedAt": "2026-09-26T05:37:00.000Z"
+    },
+    {
+      "id": "340f0d6bfb5a",
+      "opener": "Did you see that Raymond James just bumped up their price target for Elemental Altus Royalties to thirty-six bucks?",
+      "followUpQuestion": "Do you usually keep an eye on mining royalty stocks, or do you stick to broader tech and index funds?",
+      "whyItMatters": "It highlights shifting analyst sentiment in the resource sector.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "stocks",
+        "mining",
+        "finance",
+        "investing"
+      ],
+      "keywords": [
+        "elemental altus",
+        "raymond james",
+        "royalty",
+        "stock price",
+        "analyst rating",
+        "mining",
+        "finance"
+      ],
+      "sourceName": "Ticker Report",
+      "sourceUrl": "https://www.tickerreport.com/banking-finance/13597520/elemental-altus-royalties-cveele-price-target-raised-to-c36-00.html",
+      "publishedAt": "2026-09-26T05:37:00.000Z"
+    },
+    {
+      "id": "1dccced29daa",
+      "opener": "Did you see that Paramount is planning to release a new movie every eleven days after buying Warner Bros?",
+      "followUpQuestion": "Do you think a studio can keep up that kind of output without the quality totally tanking?",
+      "whyItMatters": "It marks a massive consolidation in Hollywood that could completely change how movies are made and released.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "movies",
+        "entertainment",
+        "mergers",
+        "hollywood"
+      ],
+      "keywords": [
+        "paramount",
+        "warner bros",
+        "acquisition",
+        "movies",
+        "david ellison",
+        "hollywood",
+        "studio"
+      ],
+      "sourceName": "Biztoc",
+      "sourceUrl": "https://biztoc.com/x/ee108beddc090b62",
+      "publishedAt": "2026-09-26T05:36:58.000Z"
+    },
+    {
+      "id": "8ea778c63c2e",
+      "opener": "Did you see they are carefully cleaning up a 65-million-year-old dinosaur fossil?",
+      "followUpQuestion": "If you could own a real piece of prehistoric history, what kind of fossil would you want on your desk?",
+      "whyItMatters": "It connects ancient history with modern scientific detective work in a fascinating way.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "dinosaurs",
+        "history"
+      ],
+      "keywords": [
+        "dinosaur",
+        "fossil",
+        "prehistoric",
+        "history",
+        "science",
+        "discovery"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUtRbG9NOG1vMVNjVkJ0cVQ4NkZPMnVYWTd1RHE0MUZTZGQxTVpCVldiV0pObkhFQTc1dExMY0FUazQ3bXFYN3o3X2hqMEZJTW56QnZ5TDlpNnJFdTBwMnJ3ejMyNEp3S3o5cjBNODJiV0pfN0d1a3dIVjRudEVoSHplSQ?oc=5",
+      "publishedAt": "2026-09-26T05:31:06.000Z"
+    },
+    {
+      "id": "973ee27634e6",
+      "opener": "Did you see that federal court decision upholding the Pentagon blocking Anthropic from military contracts?",
+      "followUpQuestion": "Where do you draw the line between national security and tech companies pushing back on defense policies?",
+      "whyItMatters": "It highlights the growing friction between major artificial intelligence developers and national defense agencies.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "artificial intelligence",
+        "defense",
+        "law"
+      ],
+      "keywords": [
+        "anthropic",
+        "pentagon",
+        "military contracts",
+        "ai safety",
+        "federal court",
+        "defense policy"
+      ],
+      "sourceName": "Times Now News",
+      "sourceUrl": "https://www.timesnownews.com/technology-science/anthropics-pentagon-blacklist-upheld-as-court-rejects-ai-safety-retaliation-claim-article-156227985",
+      "publishedAt": "2026-09-26T05:30:38.000Z"
+    },
+    {
+      "id": "1cdccbfc392a",
+      "opener": "Did you see that astronomers finally figured out where those intense X-rays from blazars are coming from?",
+      "followUpQuestion": "If you could travel to any extreme cosmic object like a black hole or a blazar, would you go?",
+      "whyItMatters": "It solves a major mystery about some of the most powerful and energetic objects in our universe.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "space",
+        "astronomy"
+      ],
+      "keywords": [
+        "astronomy",
+        "blazars",
+        "universe",
+        "galaxy",
+        "x-rays",
+        "stars",
+        "space"
+      ],
+      "sourceName": "Itdc India Epress",
+      "sourceUrl": "https://itdcindia.com/x-ray-clues-blazars-shed-light-active-galaxies/",
+      "publishedAt": "2026-09-26T05:29:11.000Z"
+    },
+    {
+      "id": "bbac3d16d783",
+      "opener": "I saw that kids in England are getting hit with higher bus fares just because they don't use smartphones for transit apps.",
+      "followUpQuestion": "Do you think cities should always keep a paper ticket option for people who don't want app-based transit?",
+      "whyItMatters": "It highlights the unexpected financial penalty of going smartphone-free in modern infrastructure.",
+      "mode": "both",
+      "categoryTags": [
+        "industry",
+        "technology",
+        "transportation",
+        "education"
+      ],
+      "keywords": [
+        "smartphones",
+        "bus fares",
+        "schools",
+        "transit apps",
+        "children",
+        "england",
+        "paper tickets"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/26/schoolchildren-smartphones-higher-bus-fares-england",
+      "publishedAt": "2026-09-26T05:00:28Z"
+    },
+    {
+      "id": "4e765cf19e4d",
+      "opener": "People are really debating how the government should finally handle the pensions triple lock.",
+      "followUpQuestion": "Do you think there is a fair way to reform it without upsetting retirees?",
+      "whyItMatters": "It is a massive fiscal challenge that affects long-term economic planning for everyone.",
+      "mode": "work",
+      "categoryTags": [
+        "industry",
+        "pensions",
+        "politics",
+        "economy"
+      ],
+      "keywords": [
+        "pensions",
+        "triple lock",
+        "labour",
+        "government",
+        "reform",
+        "retirement",
+        "uk economy"
+      ],
+      "sourceName": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/sep/25/how-labour-can-reform-britains-pensions-triple-lock",
+      "publishedAt": "2026-09-25T16:37:08Z"
+    }
+  ]
+}
