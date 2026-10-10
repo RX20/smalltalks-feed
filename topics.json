@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-10T12:01:21.883Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Finally getting some decent weather tomorrow with those mid-seventies in the city.",
+      "followUpQuestion": "Do you have any outdoor plans to take advantage of it?",
+      "whyItMatters": "It is a great opportunity to enjoy comfortable temperatures before conditions shift.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york",
+        "outdoor"
+      ],
+      "keywords": [
+        "weather",
+        "new york",
+        "partly cloudy",
+        "temperature",
+        "spring",
+        "outdoors"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-10-10T11:58:13.774Z"
+    },
+    {
+      "id": "1680057f229e",
+      "opener": "Did you see that Yobe just started rolling out PVC distribution and checking the voter register across all their local government areas?",
+      "followUpQuestion": "Do you think a seven-day window is enough time for everyone to check and fix errors on their registration?",
+      "whyItMatters": "It highlights the crucial grassroots steps leading up to elections and the logistical hurdles voters face.",
+      "mode": "work",
+      "categoryTags": [
+        "viral",
+        "politics",
+        "elections",
+        "governance"
+      ],
+      "keywords": [
+        "inec",
+        "yobe",
+        "pvc",
+        "voters register",
+        "elections",
+        "nigeria"
+      ],
+      "sourceName": "Vanguard News",
+      "sourceUrl": "https://www.vanguardngr.com/2026/10/inec-begins-voters-register-display-pvc-distribution-in-yobe/",
+      "publishedAt": "2026-10-09T23:58:00.000Z"
+    },
+    {
+      "id": "e193878d2065",
+      "opener": "Did you see that Irvine just won a major award for their child nutrition programs?",
+      "followUpQuestion": "What do you think is the best way to get kids to actually eat healthy food?",
+      "whyItMatters": "It highlights innovative ways communities are tackling student health and wellness.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "health",
+        "community",
+        "nutrition"
+      ],
+      "keywords": [
+        "irvine",
+        "child nutrition",
+        "kids",
+        "health",
+        "community",
+        "award",
+        "food"
+      ],
+      "sourceName": "Dailynews",
+      "sourceUrl": "https://dailynews.co.zw/irvines-champions-child-nutrition/",
+      "publishedAt": "2026-10-09T23:58:00.000Z"
+    },
+    {
+      "id": "f9895d71341f",
+      "opener": "I saw this really dark domestic violence case in the news today where a man shot his wife.",
+      "followUpQuestion": "Do you think there are enough warning signs in relationships before things escalate to that point?",
+      "whyItMatters": "It highlights the ongoing and critical issue of domestic violence in society.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "crime",
+        "society",
+        "news"
+      ],
+      "keywords": [
+        "crime",
+        "domestic violence",
+        "marriage",
+        "safety",
+        "news"
+      ],
+      "sourceName": "Dailynews",
+      "sourceUrl": "https://dailynews.co.zw/man-guns-down-wife/",
+      "publishedAt": "2026-10-09T23:58:00.000Z"
+    },
+    {
+      "id": "1aa47becf29d",
+      "opener": "Did you see those intense reactions online to the latest OAN headline about Nidal Malik Hasan?",
+      "followUpQuestion": "How do you think media outlets should handle reporting on such polarizing public figures?",
+      "whyItMatters": "It touches on how sensationalized media headlines drive intense public debate and social media reactions.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "news",
+        "media",
+        "politics"
+      ],
+      "keywords": [
+        "oan",
+        "headlines",
+        "media",
+        "news",
+        "public figures",
+        "controversy"
+      ],
+      "sourceName": "Cbnc",
+      "sourceUrl": "https://cbnc.com/he-deserves-it-maniac-one-america-news-network/",
+      "publishedAt": "2026-10-09T23:58:00.000Z"
+    },
+    {
+      "id": "30fb94feb1f2",
+      "opener": "Did you see how the stock market bounced back this week despite all the oil and geopolitical noise?",
+      "followUpQuestion": "Do you think earnings season next week is going to keep this momentum going?",
+      "whyItMatters": "It captures the current tug-of-war between strong tech momentum and cautious economic data.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "markets",
+        "economy"
+      ],
+      "keywords": [
+        "stocks",
+        "wall street",
+        "earnings",
+        "federal reserve",
+        "inflation",
+        "oil prices",
+        "tech stocks"
+      ],
+      "sourceName": "香港電台新聞網 - Rthk",
+      "sourceUrl": "https://news.rthk.hk/rthk/en/component/k2/1873392-20261010.htm",
+      "publishedAt": "2026-10-09T23:57:59.000Z"
+    },
+    {
+      "id": "15433890acf2",
+      "opener": "Did you see the FCC is finally cracking down on who gets broadband subsidies?",
+      "followUpQuestion": "Do you think stricter vetting will actually help expand rural internet access, or just slow things down?",
+      "whyItMatters": "It touches on how billions in federal tech funding are spent and who actually gets connected.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "tech policy",
+        "broadband",
+        "fcc"
+      ],
+      "keywords": [
+        "fcc",
+        "broadband",
+        "subsidies",
+        "telecom",
+        "regulation",
+        "internet",
+        "policy"
+      ],
+      "sourceName": "Law360",
+      "sourceUrl": "https://www.law360.com/articles/2536245/fcc-proposes-rules-to-vet-broadband-subsidy-recipients",
+      "publishedAt": "2026-10-09T23:57:52.000Z"
+    },
+    {
+      "id": "d5dee20a757d",
+      "opener": "Did you see that researchers figured out a way to predict when AI chatbots suddenly start giving harmful advice?",
+      "followUpQuestion": "Do you think we rely too much on these bots without realizing the risks?",
+      "whyItMatters": "It highlights the hidden dangers of trusting AI as it builds rapport.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "technology",
+        "artificial intelligence",
+        "safety"
+      ],
+      "keywords": [
+        "ai",
+        "chatbots",
+        "safety",
+        "research",
+        "technology",
+        "risk"
+      ],
+      "sourceName": "Earth.com",
+      "sourceUrl": "https://www.earth.com/science/ai-chatbots-may-have-a-tipping-point-where-conversations-turn-dangerous/",
+      "publishedAt": "2026-10-09T23:57:31.000Z"
+    },
+    {
+      "id": "a3799853970e",
+      "opener": "Did you see that Turkey just let go of their soccer coach Vincenzo Montella after a rough losing streak?",
+      "followUpQuestion": "Do you think firing the manager mid-season ever actually helps a struggling national team?",
+      "whyItMatters": "It highlights the intense pressure and quick trigger fingers in international football management.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "soccer",
+        "football"
+      ],
+      "keywords": [
+        "turkey",
+        "montella",
+        "coach",
+        "fired",
+        "soccer",
+        "football",
+        "nations league"
+      ],
+      "sourceName": "Stadiumastro",
+      "sourceUrl": "https://english.stadiumastro.com/sports/turkey-sack-national-team-coach-montella-football-federation-says",
+      "publishedAt": "2026-10-09T23:57:26.000Z"
+    },
+    {
+      "id": "5b2a71716d8a",
+      "opener": "Did you see Brigade Group is dropping forty thousand crore into real estate across South India?",
+      "followUpQuestion": "Where do you think all that new square footage is going to have the biggest impact?",
+      "whyItMatters": "It signals massive growth and shifting urban dynamics in South Indian real estate markets.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "real estate",
+        "investment"
+      ],
+      "keywords": [
+        "brigade group",
+        "investment",
+        "south india",
+        "realty",
+        "reit",
+        "development"
+      ],
+      "sourceName": "The Hans India",
+      "sourceUrl": "https://www.thehansindia.com/business/brigade-group-to-invest-rs-40000-cr-1130879",
+      "publishedAt": "2026-10-09T23:57:10.000Z"
+    },
+    {
+      "id": "b1541a0b9ea3",
+      "opener": "Did you catch Gambhir tearing into the bowling lineup after that rough loss in Ranchi?",
+      "followUpQuestion": "Do you think the team actually needs to make major changes to the bowling attack right now?",
+      "whyItMatters": "It highlights the immense pressure coaches and players face under public scrutiny after a tough defeat.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "cricket",
+        "sports news",
+        "team management"
+      ],
+      "keywords": [
+        "gautam gambhir",
+        "ranchi",
+        "cricket",
+        "bowlers",
+        "india",
+        "defeat",
+        "sports"
+      ],
+      "sourceName": "Sports Yaari",
+      "sourceUrl": "https://www.sportsyaari.com/videos/breakfast-with-yaari-bowlers-careers-at-stake-gambhir-on-indias-defeat-in-ranchi/",
+      "publishedAt": "2026-10-09T23:57:08.000Z"
+    },
+    {
+      "id": "42f49f6df62c",
+      "opener": "Did anyone catch that intense new Dateline episode about the Talina Galloway case last night?",
+      "followUpQuestion": "Are you big on true crime documentaries, or do you usually skip those?",
+      "whyItMatters": "True crime shows are a massive pop culture talking point and great for sparking dramatic debate.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "television",
+        "true crime"
+      ],
+      "keywords": [
+        "dateline",
+        "talina galloway",
+        "true crime",
+        "tv show",
+        "mystery",
+        "streaming"
+      ],
+      "sourceName": "Nj",
+      "sourceUrl": "https://www.nj.com/tv/2026/10/dateline-the-disappearance-of-talina-galloway-where-to-watch-for-free-in-case-you-missed-it.html",
+      "publishedAt": "2026-10-09T23:57:00.000Z"
+    },
+    {
+      "id": "93b744adce78",
+      "opener": "Did you see that wild jump in short interest for the WisdomTree Dynamic International Equity Fund this month?",
+      "followUpQuestion": "Do you think a massive spike like that points to a specific market correction ahead?",
+      "whyItMatters": "It highlights sudden speculative shifts in international funds that could signal broader market volatility.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "investing",
+        "markets"
+      ],
+      "keywords": [
+        "wisdomtree",
+        "ddwm",
+        "short interest",
+        "equity fund",
+        "stock market",
+        "investing",
+        "trading"
+      ],
+      "sourceName": "Markets Daily",
+      "sourceUrl": "https://www.themarketsdaily.com/2026/10/09/wisdomtree-dynamic-international-equity-fund-batsddwm-stock-short-interest-climbs-859-7.html",
+      "publishedAt": "2026-10-09T23:56:58.000Z"
+    },
+    {
+      "id": "43f16bf8c9bd",
+      "opener": "Did you see that niche ETF from FT Vest just saw its short bets practically evaporate this month?",
+      "followUpQuestion": "Do you think a massive drop in short interest like that usually signals a rebound or just low volume?",
+      "whyItMatters": "It highlights sudden shifts in market sentiment for specialized buffer funds.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "investing",
+        "etfs"
+      ],
+      "keywords": [
+        "etf",
+        "short interest",
+        "market sentiment",
+        "stocks",
+        "trading",
+        "finance"
+      ],
+      "sourceName": "Markets Daily",
+      "sourceUrl": "https://www.themarketsdaily.com/2026/10/09/ft-vest-u-s-equity-moderate-buffer-etf-july-batsgjul-stock-short-interest-declines-98-8.html",
+      "publishedAt": "2026-10-09T23:56:57.000Z"
+    },
+    {
+      "id": "aa27436a1413",
+      "opener": "Did you see that short interest on the MEAR municipal bond ETF spiked by over twenty-two hundred percent in September?",
+      "followUpQuestion": "Do you think a massive short position like that signals trouble ahead for muni bonds, or are traders just making a speculative bet?",
+      "whyItMatters": "It highlights unusual and aggressive trading activity in a typically stable bond fund.",
+      "mode": "work",
+      "categoryTags": [
+        "sports",
+        "finance",
+        "etf",
+        "investing"
+      ],
+      "keywords": [
+        "mear",
+        "etf",
+        "short interest",
+        "municipal bond",
+        "trading",
+        "september"
+      ],
+      "sourceName": "Bbns",
+      "sourceUrl": "https://baseballnewssource.com/2026/10/09/ishares-short-maturity-municipal-bond-active-etf-batsmear-shares-shorted-short-interest-up-2249-0-in-september/11296453.html",
+      "publishedAt": "2026-10-09T23:56:55.000Z"
+    },
+    {
+      "id": "f814ed43f9bd",
+      "opener": "Did you see that JPMorgan's BBAG bond ETF had its short interest jump by over eight hundred percent last month?",
+      "followUpQuestion": "Do you think this massive spike in shorting is a sign that bond traders are bracing for some market volatility?",
+      "whyItMatters": "It highlights a sudden shift in trader sentiment regarding fixed-income assets.",
+      "mode": "work",
+      "categoryTags": [
+        "sports",
+        "finance",
+        "investing",
+        "etf",
+        "markets"
+      ],
+      "keywords": [
+        "jpmorgan",
+        "bbag",
+        "etf",
+        "short interest",
+        "bonds",
+        "trading",
+        "market volatility"
+      ],
+      "sourceName": "Bbns",
+      "sourceUrl": "https://baseballnewssource.com/2026/10/09/jpmorgan-betabuilders-u-s-aggregate-bond-etf-batsbbag-sees-large-growth-in-short-interest/11296452.html",
+      "publishedAt": "2026-10-09T23:56:54.000Z"
+    },
+    {
+      "id": "db57354326c5",
+      "opener": "Did you see that story about the GTA 6 fan who just emailed Rockstar and actually got mailed a free poster?",
+      "followUpQuestion": "Have you ever shot your shot like that with a company and had it actually work out?",
+      "whyItMatters": "It proves that sometimes genuine politeness and a random email can still lead to surprisingly cool wins.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "gaming",
+        "gta6",
+        "pop culture"
+      ],
+      "keywords": [
+        "gta 6",
+        "rockstar games",
+        "poster",
+        "fan",
+        "reddit",
+        "email",
+        "gaming"
+      ],
+      "sourceName": "Ign Africa",
+      "sourceUrl": "https://za.ign.com/grand-theft-auto-vi/243090/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+      "publishedAt": "2026-10-09T23:56:23.000Z"
+    },
+    {
+      "id": "580b971cfdc7",
+      "opener": "I saw a stat that people are looking into career changes more than ever right now, mostly driven by AI and wanting more purposeful work.",
+      "followUpQuestion": "If you could completely switch what you do tomorrow with zero friction, what field would you jump into?",
+      "whyItMatters": "It taps into the collective feeling of workplace evolution and personal reinvention.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "career",
+        "workplace",
+        "ai"
+      ],
+      "keywords": [
+        "career change",
+        "artificial intelligence",
+        "professional transition",
+        "mentoring",
+        "finances",
+        "workplace trends"
+      ],
+      "sourceName": "Financialcontent",
+      "sourceUrl": "https://www.financialcontent.com/article/marketersmedia-2026-10-9-americans-are-googling-career-change-more-than-ever",
+      "publishedAt": "2026-10-09T23:56:00.000Z"
+    },
+    {
+      "id": "527a19959620",
+      "opener": "I just spent way too much time browsing through over a thousand bizarre car auctions online.",
+      "followUpQuestion": "If you could win any ridiculously weird vehicle for free, what kind of ride would you pick?",
+      "whyItMatters": "It is a fun way to discover bizarre collectibles and share dream garage picks.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "cars",
+        "auctions",
+        "weird"
+      ],
+      "keywords": [
+        "bring a trailer",
+        "classic cars",
+        "auctions",
+        "weird vehicles",
+        "collectibles",
+        "automotive"
+      ],
+      "sourceName": "Bring A Trailer",
+      "sourceUrl": "https://bringatrailer.com/2026/10/09/this-weeks-weird-and-wonderful-october-9-2026/",
+      "publishedAt": "2026-10-09T23:55:29.000Z"
+    },
+    {
+      "id": "0ac64fa6abc6",
+      "opener": "Did you see that Blumhouse finally locked down a DC director for their next big horror adaptation?",
+      "followUpQuestion": "Who do you think is the best fit to direct a really genuinely scary horror franchise right now?",
+      "whyItMatters": "It highlights how major comic book filmmakers are shifting toward original horror projects.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "movies",
+        "horror",
+        "directors"
+      ],
+      "keywords": [
+        "blumhouse",
+        "horror",
+        "adaptation",
+        "director",
+        "dc",
+        "film",
+        "movies"
+      ],
+      "sourceName": "Screenrant",
+      "sourceUrl": "https://screenrant.com/something-is-killing-the-children-blumhouse-movie-confirmed-craig-zobel/",
+      "publishedAt": "2026-10-09T23:55:19.000Z"
+    },
+    {
+      "id": "f815ec8f6471",
+      "opener": "Scientists just found a bizarrely tiny dead star pair using that massive Chinese radio telescope, and it is weirdly fascinating.",
+      "followUpQuestion": "If you could travel to any extreme cosmic object, like a black hole or a neutron star, would you risk it?",
+      "whyItMatters": "It challenges our current understanding of physics and extreme cosmic phenomena.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "space",
+        "astronomy"
+      ],
+      "keywords": [
+        "neutron star",
+        "telescope",
+        "fast",
+        "astronomy",
+        "physics",
+        "space"
+      ],
+      "sourceName": "Alwihda Info",
+      "sourceUrl": "https://www.alwihdainfo.com/chinese-astronomers-discover-record-breaking-lightest-binary-neutron-star-system-with-fast/",
+      "publishedAt": "2026-10-09T23:55:00.000Z"
+    },
+    {
+      "id": "d4a3af05678c",
+      "opener": "Did you see all the crazy crossovers coming to Sonic Racing's second year? Avatar and Persona characters are joining the game, plus a Godzilla track.",
+      "followUpQuestion": "Which of those weird new character collabs are you actually most excited to try out?",
+      "whyItMatters": "It highlights how wild gaming crossover DLCs have become by mashing completely unrelated franchises together.",
+      "mode": "social",
+      "categoryTags": [
+        "tech",
+        "gaming",
+        "nintendo",
+        "pop culture"
+      ],
+      "keywords": [
+        "sonic racing",
+        "dlc",
+        "avatar",
+        "persona",
+        "godzilla",
+        "gaming",
+        "updates"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTZUdU44WFhEQ09lblpEREl5cWJJSTJ6bFB5Q0ppbWJsT1kwRE1iSUEtOXFBRzJ3eGkwd0gxYUVTV19DOXVmWGVIa0NrV0hGYUd4bWJlTE50SnloNGU0RWF6d0hZTEJKTFFjcmZPakRkSms4ZjlLSTN2ZnBkQnB3ZXdpeUJvTkJjSV9qX3Zvd2VaeHB0ZEVEVm5fc0duVHFxRDVLd18wLThaS1NtV2REUXNJZVhROWVEREVQLU1faXRDU01ZNE9ZSkladGJaTHMwYndZ?oc=5",
+      "publishedAt": "2026-10-09T23:55:00.000Z"
+    },
+    {
+      "id": "9fd6aee55e0b",
+      "opener": "Did you see NASA is holding a competition for private companies to build their own space stations?",
+      "followUpQuestion": "If you could win a trip to a commercial station in orbit, would you actually go?",
+      "whyItMatters": "It marks a massive shift toward commercial space travel and private enterprise in orbit.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "space",
+        "nasa",
+        "technology"
+      ],
+      "keywords": [
+        "nasa",
+        "space station",
+        "private",
+        "commercial",
+        "orbit",
+        "competition",
+        "industry"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDBGREF2T3ZZRWxSbXFLMy03MnRSajBkRTg1N21CbU1TWF9MWXJ4UDBfMElWOE0wckVlYTBVTXBXbG5Sd1M3QUhkVDZwQXpjazlzY3VqZFU4REI0UkxLd0lvbjJxUFRjakVzRlcxUXFmYkJ6czJXQlFWeUZoZ3dGc05FS3pYT2lNT3lMQ2sxS01fd1NjaVlrY0hRS0dQR2Yx?oc=5",
+      "publishedAt": "2026-10-09T23:47:12.000Z"
+    },
+    {
+      "id": "d8537f0f8b5c",
+      "opener": "Did you see that Mizzou just opened up four new ag research spots to help local farmers?",
+      "followUpQuestion": "What kind of tech do you think they are focusing on to help with fuel costs and crop yields?",
+      "whyItMatters": "It highlights how regional universities are tackling supply chain and farming hurdles.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "agriculture",
+        "innovation"
+      ],
+      "keywords": [
+        "agriculture",
+        "research",
+        "farmers",
+        "university",
+        "fuel",
+        "technology",
+        "missouri"
+      ],
+      "sourceName": "Https://www.kfvs12.com",
+      "sourceUrl": "https://www.kfvs12.com/2026/10/09/mizzou-opens-four-agriculture-research-facilities-state-aids-farmers/",
+      "publishedAt": "2026-10-09T23:45:16.000Z"
+    }
+  ]
+}
