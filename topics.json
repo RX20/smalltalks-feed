@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T17:19:24.405Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Looks like New York is finally getting some decent spring weather tomorrow with that 17-degree high.",
+      "followUpQuestion": "Do you have any outdoor plans to soak up that sunshine?",
+      "whyItMatters": "Everyone's mood shifts for the better as the temperatures finally start climbing into the upper teens.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york",
+        "spring"
+      ],
+      "keywords": [
+        "new york",
+        "weather",
+        "temperature",
+        "forecast",
+        "spring",
+        "partly cloudy"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-10-24T17:15:01.792Z"
+    },
+    {
+      "id": "e40e74838bb6",
+      "opener": "I saw an analysis suggesting XRP might repeat its massive historical surges by 2027.",
+      "followUpQuestion": "Do you actually pay attention to crypto market cycles, or is that all just noise to you?",
+      "whyItMatters": "Cryptocurrency trends spark strong debates about future financial markets and risk.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "finance",
+        "crypto",
+        "markets"
+      ],
+      "keywords": [
+        "xrp",
+        "cryptocurrency",
+        "crypto",
+        "trading",
+        "finance",
+        "investing"
+      ],
+      "sourceName": "Fool",
+      "sourceUrl": "https://www.fool.com/investing/2026/10/24/if-history-is-any-guide-this-cryptocurrency-is-abo/",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "315b0d5eac94",
+      "opener": "Pooja Hegde completely nailed that metallic gold sari look with the mirror work details.",
+      "followUpQuestion": "Do you usually prefer traditional heavy ethnic wear or something more modern and lightweight for weddings?",
+      "whyItMatters": "It highlights how traditional Indian crafts like mirror work are being styled in modern ways for contemporary fashion trends.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "fashion",
+        "celebrity style",
+        "traditional crafts"
+      ],
+      "keywords": [
+        "pooja hegde",
+        "sari",
+        "arpita mehta",
+        "mirror work",
+        "fashion",
+        "ethnic wear"
+      ],
+      "sourceName": "Vogue",
+      "sourceUrl": "https://www.vogue.in/content/pooja-hegdes-gold-tissue-sari-by-arpita-mehta-celebrates-the-centuries-old-craft-of-mirror-work",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "0603bd6d8e7b",
+      "opener": "Did you manage to drop off your yard trimmings yet? The main green waste site shuts down this Sunday.",
+      "followUpQuestion": "Where are you planning to take your branches and clippings once it closes?",
+      "whyItMatters": "It impacts anyone doing weekend yard work and cleanup around the neighborhood.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "local news",
+        "environment",
+        "community"
+      ],
+      "keywords": [
+        "green waste",
+        "yard work",
+        "closure",
+        "guam",
+        "community",
+        "cleanup"
+      ],
+      "sourceName": "Guam Daily News",
+      "sourceUrl": "https://www.guampdn.com/news/green-waste-site-closes-sunday/article_6dbcc270-dd0d-4197-8a32-3c823f156db1.html",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "4ead076ffebe",
+      "opener": "Did you see how the Clarke County football team has been fighting through a rough season with such a young squad?",
+      "followUpQuestion": "Do you think rebuilding with freshmen and sophomores usually pays off quickly or takes a few years?",
+      "whyItMatters": "It highlights the gritty reality of sports rebuilding phases and youth development.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "high school football",
+        "local news"
+      ],
+      "keywords": [
+        "clarke county",
+        "strasburg",
+        "football",
+        "high school",
+        "roster",
+        "sports"
+      ],
+      "sourceName": "Winchesterstar",
+      "sourceUrl": "https://www.winchesterstar.com/winchester_star/clarke-county-challenges-strasburg-in-loss/article_dd1fda8c-11d3-59e7-9809-859157ad91ca.html",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "68ef1a40db50",
+      "opener": "Did you see that high school football score where West Shamokin put up 70 points after barely scoring all last year?",
+      "followUpQuestion": "How do you even completely flip a team's offense around like that in one season?",
+      "whyItMatters": "It is an incredible comeback story about a team transforming from zero to hero overnight.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "football",
+        "high school sports"
+      ],
+      "keywords": [
+        "wolves",
+        "blue jays",
+        "west shamokin",
+        "football",
+        "comeback",
+        "high school",
+        "game"
+      ],
+      "sourceName": "Indianagazette",
+      "sourceUrl": "https://www.indianagazette.com/sports/wolves-score-season-high-70-points-in-win-over-blue-jays/article_ab71a2eb-498f-43cb-a995-b19d6293f6b6.html",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "a7723228e5f6",
+      "opener": "I was just reading about how many different types of support groups are out there now for pretty much any life hurdle.",
+      "followUpQuestion": "Do you think people are generally more open to joining those kinds of communities nowadays?",
+      "whyItMatters": "It highlights the growing accessibility and normalization of mental health and lifestyle support networks.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "wellness",
+        "community",
+        "mental health"
+      ],
+      "keywords": [
+        "support groups",
+        "addiction",
+        "illness",
+        "insecurity",
+        "mental health",
+        "community",
+        "wellness"
+      ],
+      "sourceName": "The Grand Island Independent",
+      "sourceUrl": "https://theindependent.com/life-entertainment/local/wellness/article_8bdf3f99-dbe2-4f91-a704-bfbb4014996c.html",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "aa29b817165e",
+      "opener": "Did you see how much Strasburg had to sweat out that win over Clarke County this time compared to last year's blowout?",
+      "followUpQuestion": "Do you think it is harder for a team to bounce back after a massive blowout loss or defend a big win?",
+      "whyItMatters": "It highlights how quickly rivalries and team dynamics can shift in high school sports from one season to the next.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "football",
+        "local sports"
+      ],
+      "keywords": [
+        "strasburg",
+        "clarke county",
+        "high school football",
+        "rematch",
+        "sports"
+      ],
+      "sourceName": "Nvdaily",
+      "sourceUrl": "https://www.nvdaily.com/nvdaily/strasburg-holds-on-against-clarke-county/article_049ad841-e588-5adf-a362-89d49cda9779.html",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "ad32f2ef458c",
+      "opener": "Did you see that local council threatened to take away a disabled girl's wheelchair over some crazy fire risk rule?",
+      "followUpQuestion": "How do you even begin to appeal something that absurd?",
+      "whyItMatters": "It highlights bureaucratic overreach and the ridiculous situations families are sometimes forced to fight.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "local news",
+        "bureaucracy",
+        "disability rights"
+      ],
+      "keywords": [
+        "council",
+        "wheelchair",
+        "fire risk",
+        "london",
+        "disability",
+        "bureaucracy"
+      ],
+      "sourceName": "Mylondon",
+      "sourceUrl": "https://www.mylondon.news/news/west-london-news/west-london-council-threatens-take-34806611",
+      "publishedAt": "2026-10-24T05:15:00.000Z"
+    },
+    {
+      "id": "0ef411dfbec3",
+      "opener": "Did you see that Trump Media just got hit with another downgrade by Wall Street Zen?",
+      "followUpQuestion": "Do you think retail investors still pay attention to those analyst ratings?",
+      "whyItMatters": "It highlights the ongoing volatility and market skepticism surrounding high-profile political stocks.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "stocks",
+        "finance"
+      ],
+      "keywords": [
+        "trump media",
+        "djt",
+        "stock",
+        "downgrade",
+        "wall street zen",
+        "investment",
+        "market"
+      ],
+      "sourceName": "Americanbankingnews",
+      "sourceUrl": "https://www.americanbankingnews.com/2026/10/24/trump-media-technology-group-nasdaqdjt-stock-bumped-down-to-strong-sell-by-wall-street-zen.html",
+      "publishedAt": "2026-10-24T05:14:59.000Z"
+    },
+    {
+      "id": "29c37f894c2d",
+      "opener": "Did you see that First Interstate BancSystem just got downgraded to a sell rating by Wall Street Zen?",
+      "followUpQuestion": "Do you usually pay attention to analyst downgrades when looking at regional bank stocks?",
+      "whyItMatters": "It highlights shifting analyst sentiment in the regional banking sector.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "stocks",
+        "banking"
+      ],
+      "keywords": [
+        "first interstate bancsystem",
+        "fibk",
+        "stock rating",
+        "downgrade",
+        "wall street zen",
+        "banking"
+      ],
+      "sourceName": "Americanbankingnews",
+      "sourceUrl": "https://www.americanbankingnews.com/2026/10/24/first-interstate-bancsystem-nasdaqfibk-stock-rating-lowered-by-wall-street-zen.html",
+      "publishedAt": "2026-10-24T05:14:59.000Z"
+    },
+    {
+      "id": "6043329ee50d",
+      "opener": "Did you see that Driven Brands just got bumped up to a buy rating by Wall Street Zen?",
+      "followUpQuestion": "Do you usually pay attention to analyst upgrades when looking at stocks?",
+      "whyItMatters": "It highlights shifting market sentiment around automotive franchise businesses.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "finance",
+        "stocks",
+        "investing"
+      ],
+      "keywords": [
+        "driven brands",
+        "wall street zen",
+        "stock upgrade",
+        "nasdaq",
+        "analyst rating",
+        "finance"
+      ],
+      "sourceName": "Americanbankingnews",
+      "sourceUrl": "https://www.americanbankingnews.com/2026/10/24/wall-street-zen-upgrades-driven-brands-nasdaqdrvn-to-buy.html",
+      "publishedAt": "2026-10-24T05:14:59.000Z"
+    },
+    {
+      "id": "f6d395351d9d",
+      "opener": "Did you see Chunky Panday comparing himself to a potato in Bollywood?",
+      "followUpQuestion": "If you had to pick a food to describe your own career or role, what would it be?",
+      "whyItMatters": "It is a funny metaphor that highlights his versatility and longevity in the entertainment industry.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "bollywood",
+        "humor"
+      ],
+      "keywords": [
+        "chunky panday",
+        "bollywood",
+        "actor",
+        "interview",
+        "rohit sharma",
+        "humor",
+        "cinema"
+      ],
+      "sourceName": "Bhaskarlive",
+      "sourceUrl": "https://bhaskarlive.in/others/chunky-panday-reveals-why-bollywood-calls-him-the-aloo-of-the-film-industry-2156716",
+      "publishedAt": "2026-10-24T05:14:51.000Z"
+    },
+    {
+      "id": "dedb22829c93",
+      "opener": "Have you seen that old clip of Ananya Panday talking about Arjun Reddy making the rounds online again?",
+      "followUpQuestion": "Do you think people dig up these old interviews just to create drama, or is it actually interesting to see how opinions change?",
+      "whyItMatters": "It highlights how past celebrity remarks easily resurface and spark fresh debates online.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "bollywood",
+        "social media"
+      ],
+      "keywords": [
+        "ananya panday",
+        "arjun reddy",
+        "koffee with karan",
+        "viral video",
+        "celebrity gossip",
+        "bollywood"
+      ],
+      "sourceName": "Times Now News",
+      "sourceUrl": "https://www.timesnownews.com/entertainment-news/bollywood/ananya-pandays-old-koffee-with-karan-clip-criticising-arjun-reddy-resurfaces-after-vijay-deverakonda-rashmika-mandanna-episode-article-156395226",
+      "publishedAt": "2026-10-24T05:14:34.000Z"
+    },
+    {
+      "id": "8bdd058c6978",
+      "opener": "I finally figured out how to grab that official ID card PDF online without paying any sneaky fees.",
+      "followUpQuestion": "Have you ever had to hunt down your digital paperwork in a rush?",
+      "whyItMatters": "Everyone deals with annoying government portals and losing physical cards eventually.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "productivity",
+        "government"
+      ],
+      "keywords": [
+        "aadhaar",
+        "download",
+        "pdf",
+        "portal",
+        "digital",
+        "id",
+        "online"
+      ],
+      "sourceName": "Udaipur Kiran",
+      "sourceUrl": "https://udaipurkiran.com/download-e-aadhaar-card-myaadhaar-portal-free-pdf-password/",
+      "publishedAt": "2026-10-24T05:14:16.000Z"
+    },
+    {
+      "id": "4a9e6061ff65",
+      "opener": "I saw Jamie Lee Curtis had to invent her own sitcom just to finally get cast in one.",
+      "followUpQuestion": "If you had the power to create your dream project from scratch, what would you make?",
+      "whyItMatters": "It is a great example of taking matters into your own hands when traditional paths fail.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "television",
+        "celebrity"
+      ],
+      "keywords": [
+        "jamie lee curtis",
+        "sitcom",
+        "acting",
+        "television",
+        "career",
+        "hollywood"
+      ],
+      "sourceName": "Just Jared",
+      "sourceUrl": "https://www.justjared.com/2026/10/24/jamie-lee-curtis-reveals-she-had-to-create-her-own-sitcom-after-struggling-to-get-cast-in-one/",
+      "publishedAt": "2026-10-24T05:13:32.000Z"
+    },
+    {
+      "id": "3a8e82908dfc",
+      "opener": "Did you hear SAP moved that helpful notes recommendation tool over to Cloud ALM?",
+      "followUpQuestion": "Have you had a chance to check out the new Landscapes Design and Visualization features yet?",
+      "whyItMatters": "It highlights the ongoing transition of legacy support tools into modern cloud platforms.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "enterprise software",
+        "sap",
+        "cloud computing"
+      ],
+      "keywords": [
+        "sap",
+        "cloud alm",
+        "maintenance planner",
+        "security notes",
+        "landscapes design",
+        "visualization"
+      ],
+      "sourceName": "Sap",
+      "sourceUrl": "https://community.sap.com/t5/technology-blog-posts-by-sap/view-recommended-notes-in-sap-cloud-alm-applications/ba-p/14440245",
+      "publishedAt": "2026-10-24T05:13:24.000Z"
+    },
+    {
+      "id": "aa1236ffdfff",
+      "opener": "Did you see that senators are asking the BIR to suspend the new registration seal for online sellers before the deadline?",
+      "followUpQuestion": "Do you think giving online sellers more time to comply is the right move?",
+      "whyItMatters": "It affects thousands of digital entrepreneurs and small business owners racing against the deadline.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "ecommerce",
+        "regulations",
+        "business"
+      ],
+      "keywords": [
+        "bir",
+        "online sellers",
+        "registration seal",
+        "senators",
+        "deadline",
+        "taxes"
+      ],
+      "sourceName": "Unbox Ph",
+      "sourceUrl": "https://unbox.ph/news/senators-bir-registration-seal/",
+      "publishedAt": "2026-10-24T05:13:17.000Z"
+    },
+    {
+      "id": "23d5ea1361aa",
+      "opener": "Did you see that Katsina just got a major power grid upgrade to help stabilize electricity in the state?",
+      "followUpQuestion": "Do you think nationwide grid updates like this can actually keep up with growing energy demands?",
+      "whyItMatters": "Power infrastructure improvements directly impact regional development and highlight ongoing efforts to solve national grid challenges.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "infrastructure",
+        "energy",
+        "nigeria",
+        "technology"
+      ],
+      "keywords": [
+        "power",
+        "transmission",
+        "katsina",
+        "grid",
+        "electricity",
+        "infrastructure",
+        "energy"
+      ],
+      "sourceName": "Nigeriannewsdirectcom",
+      "sourceUrl": "https://nigeriannewsdirect.com/fg-upgrades-katsina-transmission-network-to-boost-power-supply/",
+      "publishedAt": "2026-10-24T05:12:44.000Z"
+    },
+    {
+      "id": "a555f58f564c",
+      "opener": "Did you see that incredible chase in the first India-New Zealand T20? Apparently, young Vaibhav Sooryavanshi might get the nod to open today.",
+      "followUpQuestion": "Do you think throwing a teenager into the opening spot against New Zealand is a bold gamble or a smart move?",
+      "whyItMatters": "It highlights the rising young talent in international cricket and high-stakes series strategy.",
+      "mode": "social",
+      "categoryTags": [
+        "science",
+        "cricket",
+        "sports",
+        "india"
+      ],
+      "keywords": [
+        "cricket",
+        "india",
+        "new zealand",
+        "t20",
+        "vaibhav sooryavanshi",
+        "sports"
+      ],
+      "sourceName": "The Times Of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-2nd-t20i-match-today-2026-playing-xi-toss-scorecard-live-streaming/liveblog/135162645.cms",
+      "publishedAt": "2026-10-24T05:09:04.000Z"
+    },
+    {
+      "id": "54fc0edf2d32",
+      "opener": "Did you see that India is looking at Germany's research model to help bring scientists back home?",
+      "followUpQuestion": "Do you think companies and universities here do enough to collaborate like that?",
+      "whyItMatters": "It touches on global talent migration and how industry partnerships can drive local innovation.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "careers",
+        "innovation"
+      ],
+      "keywords": [
+        "researchers",
+        "academia",
+        "industry",
+        "partnership",
+        "india",
+        "germany",
+        "talent"
+      ],
+      "sourceName": "Newkerala.com",
+      "sourceUrl": "https://www.newkerala.com/news/a/piyush-goyal-calls-stronger-industry-academia-partnerships-bring-indian-786.htm",
+      "publishedAt": "2026-10-24T05:06:12.000Z"
+    }
+  ]
+}
