@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T11:47:14.198Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Finally getting a break from the chill with that mid-sixties weather tomorrow in the city.",
+      "followUpQuestion": "Do you have any outdoor plans to take advantage of the milder afternoon?",
+      "whyItMatters": "A comfortable spring day provides a great mood boost and an excuse to get outside.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york"
+      ],
+      "keywords": [
+        "weather",
+        "new york",
+        "spring",
+        "temperature",
+        "forecast",
+        "outdoors"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-10-31T11:44:04.575Z"
+    },
+    {
+      "id": "f78fdea0a77e",
+      "opener": "Did you see that law firm is looking into Aurora Innovation over potential securities issues?",
+      "followUpQuestion": "Do you think legal investigations like this usually impact a company's long-term autonomous vehicle roadmap?",
+      "whyItMatters": "It highlights the financial and regulatory risks facing high-profile autonomous tech companies.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "investing",
+        "legal"
+      ],
+      "keywords": [
+        "aurora innovation",
+        "aur",
+        "nasdaq",
+        "securities litigation",
+        "investigation",
+        "autonomous vehicles"
+      ],
+      "sourceName": "Pr Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/nasdaq-aur-investigation-alert-kessler-topaz-meltzer--check-llp-encourages-aurora-innovation-inc-aur-investors-to-contact-the-firm-302925376.html",
+      "publishedAt": "2026-10-30T23:44:00.000Z"
+    },
+    {
+      "id": "d236d509c9ab",
+      "opener": "Michigan football is having a surprisingly rough season and really needs a win against Rutgers this weekend.",
+      "followUpQuestion": "Do you think the Wolverines can turn things around and salvage this season?",
+      "whyItMatters": "It highlights a surprising struggle for a traditionally dominant college football program.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "sports",
+        "college football",
+        "michigan wolverines"
+      ],
+      "keywords": [
+        "michigan",
+        "football",
+        "rutgers",
+        "wolverines",
+        "sports",
+        "college",
+        "predictions"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://headtopics.com/news/3-michigan-football-predictions-against-rutgers-89389018",
+      "publishedAt": "2026-10-30T23:44:00.000Z"
+    },
+    {
+      "id": "369765981481",
+      "opener": "Have you heard about that new Kannada film Premada Ooralli? It's pulling in huge crowds, but people are super divided over its old-school romantic themes.",
+      "followUpQuestion": "Do you think a movie can still be a good watch if the main message is problematic?",
+      "whyItMatters": "It touches on the ongoing debate about balancing box office entertainment with socially responsible storytelling.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "movies",
+        "culture",
+        "film review"
+      ],
+      "keywords": [
+        "kannada film",
+        "premada ooralli",
+        "box office",
+        "patriarchy",
+        "movie review",
+        "entertainment"
+      ],
+      "sourceName": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/entertainment/premada-ooralli-a-hit-with-a-problematic-message-4201551",
+      "publishedAt": "2026-10-30T23:43:58.000Z"
+    },
+    {
+      "id": "65ae22e4eba6",
+      "opener": "Did you see those crazy photos of Mayon Volcano spitting ash again in the Philippines?",
+      "followUpQuestion": "Have you ever been anywhere near an active volcano like that?",
+      "whyItMatters": "It highlights the awe-inspiring and unpredictable power of nature.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "volcano",
+        "nature",
+        "news",
+        "travel"
+      ],
+      "keywords": [
+        "mayon",
+        "volcano",
+        "philippines",
+        "ash",
+        "eruption",
+        "albay",
+        "nature"
+      ],
+      "sourceName": "Gma News Online",
+      "sourceUrl": "https://www.gmanetwork.com/news/topstories/regions/1007792/mayon-volcano-spews-ash-alert-level-3-prevails/story/",
+      "publishedAt": "2026-10-30T23:43:58.000Z"
+    },
+    {
+      "id": "bd25c0670604",
+      "opener": "Sheffield United finally put together a complete performance against Wrexham, and Chris Wilder seems pretty relieved about what they've been missing.",
+      "followUpQuestion": "Do you think they have enough momentum now to break firmly into the top eight?",
+      "whyItMatters": "It highlights a crucial turning point for a team trying to salvage their season.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "soccer",
+        "championship",
+        "sheffield united"
+      ],
+      "keywords": [
+        "sheffield united",
+        "wrexham",
+        "chris wilder",
+        "football",
+        "soccer",
+        "play-offs",
+        "ben brereton diaz"
+      ],
+      "sourceName": "The Star",
+      "sourceUrl": "https://www.thestar.co.uk/sport/football/sheffield-united/chris-wilder-pinpoints-what-sheffield-united-have-been-missing-after-welcome-wrexham-win-closes-play-offs-gap-9321777",
+      "publishedAt": "2026-10-30T23:43:56.000Z"
+    },
+    {
+      "id": "23436cc6f961",
+      "opener": "Did you see that incredible clutch partnership from St. Joseph Vaz College to snatch a cricket quarter-final win in Kandy?",
+      "followUpQuestion": "Are you usually someone who follows school-level cricket tournaments?",
+      "whyItMatters": "It highlights a dramatic comeback under pressure in youth sports.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "cricket",
+        "schools"
+      ],
+      "keywords": [
+        "cricket",
+        "st. joseph vaz",
+        "dharmaraja college",
+        "kandy",
+        "quarter-final",
+        "partnership",
+        "under 19"
+      ],
+      "sourceName": "The Island",
+      "sourceUrl": "http://island.lk/savio-yasith-guide-st-joseph-vaz-to-semis/",
+      "publishedAt": "2026-10-30T23:43:56.000Z"
+    },
+    {
+      "id": "a7639711e594",
+      "opener": "I saw that Wanjie India just debuted a brand-new shaftless rotary offset press for labels.",
+      "followUpQuestion": "Do you think these high-speed printing innovations are going to completely change packaging design soon?",
+      "whyItMatters": "It highlights major automation shifts happening in the manufacturing and packaging tech sectors.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "technology",
+        "manufacturing",
+        "printing"
+      ],
+      "keywords": [
+        "wanjie",
+        "india",
+        "press",
+        "printing",
+        "labels",
+        "manufacturing",
+        "technology"
+      ],
+      "sourceName": "Labelsandlabeling",
+      "sourceUrl": "http://www.labelsandlabeling.com/video/loupe-formerly-labelexpo/wanjie-india-showcases-advanced-350-shaftless-intermittent-rotary-offset-label-printing-press",
+      "publishedAt": "2026-10-30T23:43:52.000Z"
+    },
+    {
+      "id": "994863b994b6",
+      "opener": "Did you see that the government is trying every trick in the book to dodge that no-confidence motion against the Speaker?",
+      "followUpQuestion": "Do you think they have the numbers to actually block it, or are they just stalling?",
+      "whyItMatters": "It highlights shifting political strategies and parliamentary drama.",
+      "mode": "work",
+      "categoryTags": [
+        "viral",
+        "politics",
+        "parliament",
+        "government"
+      ],
+      "keywords": [
+        "speaker",
+        "no-confidence motion",
+        "government",
+        "opposition",
+        "politics",
+        "parliamentary"
+      ],
+      "sourceName": "The Island",
+      "sourceUrl": "http://island.lk/ncm-against-speaker-govt-s-loincloth-method/",
+      "publishedAt": "2026-10-30T23:43:52.000Z"
+    },
+    {
+      "id": "283cd0cebc5b",
+      "opener": "Looks like we need to scramble our fantasy lineups this week since DeVonta Smith and Dontayvion Wicks are officially out.",
+      "followUpQuestion": "Are you picking up Makai Lemon to fill the gap on your roster?",
+      "whyItMatters": "Crucial lineup adjustments can make or break your fantasy matchup this weekend.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "fantasy football"
+      ],
+      "keywords": [
+        "fantasy football",
+        "makai lemon",
+        "devonta smith",
+        "dontayvion wicks",
+        "nfl injuries",
+        "lineup"
+      ],
+      "sourceName": "Yahoo! News",
+      "sourceUrl": "https://sports.yahoo.com/articles/fantasy-football-injury-makai-lemon-234352711.html",
+      "publishedAt": "2026-10-30T23:43:52.000Z"
+    },
+    {
+      "id": "308185f7b03e",
+      "opener": "Did you see the rumor that the Chiefs might try to trade for Chris Godwin before the deadline?",
+      "followUpQuestion": "Do you think adding him would actually fix their receiver issues, or is it too risky coming off that injury?",
+      "whyItMatters": "It's a massive potential roster move that could heavily sway the AFC championship race.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "nfl",
+        "football"
+      ],
+      "keywords": [
+        "chiefs",
+        "buccaneers",
+        "chris godwin",
+        "trade",
+        "nfl deadline",
+        "wide receiver"
+      ],
+      "sourceName": "Yahoo! News",
+      "sourceUrl": "https://sports.yahoo.com/articles/chiefs-linked-buccaneers-66-million-234351974.html",
+      "publishedAt": "2026-10-30T23:43:51.000Z"
+    },
+    {
+      "id": "fba2f9bd359f",
+      "opener": "Kansas City is voting on a massive twenty million dollar tax break for an AI data center, even with a lot of local pushback.",
+      "followUpQuestion": "Do you think cities should offer huge tax breaks to attract tech infrastructure like that?",
+      "whyItMatters": "It highlights the ongoing tension between local tax incentives and the massive power and space demands of the AI boom.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "technology",
+        "local government"
+      ],
+      "keywords": [
+        "kansas city",
+        "tax break",
+        "data center",
+        "ai",
+        "infrastructure",
+        "economy"
+      ],
+      "sourceName": "Hoodline",
+      "sourceUrl": "https://hoodline.com/2026/10/kansas-city-weighs-20-million-tax-break-for-florida-data-center-firm/",
+      "publishedAt": "2026-10-30T23:43:49.000Z"
+    },
+    {
+      "id": "d206d37c1590",
+      "opener": "Did you see that local shelter in Boonville? They're getting slammed with families who never needed help before, just because utility bills jumped so high.",
+      "followUpQuestion": "Have you noticed your own electric bill creeping up lately?",
+      "whyItMatters": "It highlights the hidden cost-of-living crunch hitting middle-class households.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "economy",
+        "utilities",
+        "community"
+      ],
+      "keywords": [
+        "boonville",
+        "power bills",
+        "electric rates",
+        "families",
+        "financial assistance",
+        "cost of living",
+        "impact ministries"
+      ],
+      "sourceName": "Https://www.14news.com",
+      "sourceUrl": "https://www.14news.com/2026/10/30/boonville-shelter-sees-surge-families-squeezed-by-skyrocketing-power-bills/",
+      "publishedAt": "2026-10-30T23:43:47.000Z"
+    },
+    {
+      "id": "846c2e0121cf",
+      "opener": "Did you see that massive six billion dollar crypto heist just before Halloween?",
+      "followUpQuestion": "How do you even begin to track down that much stolen digital currency?",
+      "whyItMatters": "It highlights the massive ongoing security risks in the rapidly growing cryptocurrency market.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "cryptocurrency",
+        "finance",
+        "crime"
+      ],
+      "keywords": [
+        "crypto",
+        "theft",
+        "cryptocurrency",
+        "security",
+        "bitcoin",
+        "hack",
+        "finance"
+      ],
+      "sourceName": "My Edmonds News",
+      "sourceUrl": "https://myedmondsnews.com/2026/10/se-habla-news-oct-30-2026/",
+      "publishedAt": "2026-10-30T23:43:44.000Z"
+    },
+    {
+      "id": "ea1269f7ac32",
+      "opener": "Did you see that Kevin Federline is facing a massive lawsuit over unpaid debts?",
+      "followUpQuestion": "How do celebrities manage to rack up that kind of debt?",
+      "whyItMatters": "It touches on celebrity financial struggles and pop culture nostalgia.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "celebrity",
+        "pop culture",
+        "news"
+      ],
+      "keywords": [
+        "britney spears",
+        "kevin federline",
+        "lawsuit",
+        "debt",
+        "celebrity news",
+        "entertainment"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXZTY09RM3B0Y3hEREdwdHNTOWZaMDR5V084WURfcjE5NTlSTXhpM2hSdnhUT0JWN1JrOHNBM25iWVRzUmxZOW5uOFprOGdtZWlFU0dmZ2FEX2FkSGRSd3pKS0o5cWE3SlloX210X3ZoazV5OG9NZUNKUldiZTVTU2VSeXM1V29ONWZ0bFN4SVk3ZzNzMnNvRldrU3JJenFERUZEZDJpS2JHc01kQWlDNzcta1JTdkZk?oc=5",
+      "publishedAt": "2026-10-30T23:43:38.000Z"
+    },
+    {
+      "id": "5f8c8c312288",
+      "opener": "Did you see that Nikita Kucherov apparently told the Lightning he wants out?",
+      "followUpQuestion": "Where do you think he'll end up if they actually trade him?",
+      "whyItMatters": "It is a massive shakeup for a major NHL franchise.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "sports",
+        "hockey",
+        "nhl"
+      ],
+      "keywords": [
+        "nikita kucherov",
+        "tampa bay lightning",
+        "trade",
+        "nhl",
+        "hockey",
+        "sports"
+      ],
+      "sourceName": "The Chronicle-journal",
+      "sourceUrl": "https://www.chroniclejournal.com/sports/national_sports/nikita-kucherov-tells-lightning-he-wont-re-sign-and-asks-for-a-trade-ap-source/article_14af2b53-7969-516b-b847-621f6bad92ca.html",
+      "publishedAt": "2026-10-30T23:43:36.000Z"
+    },
+    {
+      "id": "fb321f360022",
+      "opener": "I saw a piece about how Jennifer Lawrence lost a bit of her signature quirky charm trying to fit into standard Hollywood molds.",
+      "followUpQuestion": "Do you think public figures feel pressured to change how they look and act as they get older?",
+      "whyItMatters": "It touches on the heavy pressure celebrities face to conform to industry beauty standards.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "celebrity gossip",
+        "hollywood",
+        "aging",
+        "pop culture"
+      ],
+      "keywords": [
+        "jennifer lawrence",
+        "hollywood",
+        "celebrity",
+        "aging",
+        "fame",
+        "image"
+      ],
+      "sourceName": "New York Post",
+      "sourceUrl": "https://nypost.com/2026/10/30/opinion/jennifer-lawrence-fell-for-the-trap-and-lost-the-joys-of-aging-gracefully/",
+      "publishedAt": "2026-10-30T23:43:15.000Z"
+    },
+    {
+      "id": "8b9c6ecc4f64",
+      "opener": "I never would have guessed Billy Ray Cyrus and Elizabeth Hurley would end up dating, but they are somehow coming up on a year together.",
+      "followUpQuestion": "Do you keep up with unexpected celebrity couples like that?",
+      "whyItMatters": "It is a bizarre celebrity pairing that surprisingly managed to last.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "celebrity gossip",
+        "relationships",
+        "pop culture"
+      ],
+      "keywords": [
+        "billy ray cyrus",
+        "elizabeth hurley",
+        "dating",
+        "celebrity couple",
+        "anniversary"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://headtopics.com/news/billy-ray-cyrus-and-elizabeth-hurley-still-going-strong-89389006",
+      "publishedAt": "2026-10-30T23:43:00.000Z"
+    },
+    {
+      "id": "81bf35d8a290",
+      "opener": "Did you see that Etsy is trying to clamp down on all those AI-generated listings?",
+      "followUpQuestion": "Do you think marketplaces can actually successfully filter out AI products, or is it a lost cause?",
+      "whyItMatters": "It highlights the ongoing challenge platforms face in regulating AI-generated content versus human-made goods.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "technology",
+        "ecommerce",
+        "ai"
+      ],
+      "keywords": [
+        "etsy",
+        "artificial intelligence",
+        "marketplace",
+        "policy",
+        "sellers",
+        "shopping",
+        "automation"
+      ],
+      "sourceName": "Cedar News",
+      "sourceUrl": "https://cedarnews.net/newstasks/1106154/etsy-cracks-down-ai-copying-issues-some/",
+      "publishedAt": "2026-10-30T23:42:48.000Z"
+    },
+    {
+      "id": "72e7a7f21159",
+      "opener": "Did you see that legal fight over AI training data? It turns out narrowing copyright fair use could accidentally break web browsing for everyone else.",
+      "followUpQuestion": "Do you think there is a way to protect creators without ruining fair use for researchers and journalists?",
+      "whyItMatters": "It highlights how big copyright lawsuits could unintentionally reshape everyday internet access and public interest research.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "artificial intelligence",
+        "copyright law",
+        "tech policy",
+        "internet freedom"
+      ],
+      "keywords": [
+        "generative ai",
+        "copyright",
+        "fair use",
+        "openai",
+        "lawsuit",
+        "internet",
+        "research"
+      ],
+      "sourceName": "Electronic Frontier Foundation",
+      "sourceUrl": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+      "publishedAt": "2026-10-30T23:42:45.000Z"
+    },
+    {
+      "id": "c37985b5916c",
+      "opener": "Did you see that researcher in Idaho who's literally building a massive underground lab to study what happens deep in the dirt?",
+      "followUpQuestion": "If you could design an underground laboratory to study anything hidden beneath us, what would you want to look at?",
+      "whyItMatters": "It highlights how little we actually know about the complex ecosystems right beneath our feet.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "research",
+        "ecology"
+      ],
+      "keywords": [
+        "soil",
+        "ecotron",
+        "research",
+        "science",
+        "underground",
+        "ecosystem"
+      ],
+      "sourceName": "Postregister",
+      "sourceUrl": "https://www.postregister.com/farmandranch/u-of-i-doctoral-student-s-research-helps-lay-groundwork-for-deep-soil-ecotron/article_6959e422-da7b-4992-998b-141115db0fa5.html",
+      "publishedAt": "2026-10-30T23:38:00.000Z"
+    },
+    {
+      "id": "d26859e84092",
+      "opener": "Did you see that Google actually got an AI model running on a satellite to write a haiku about space?",
+      "followUpQuestion": "Would you trust an AI orbiting the Earth to make important decisions without human oversight?",
+      "whyItMatters": "It bridges two massive tech frontiers, space exploration and artificial intelligence, in a surprisingly creative way.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "technology",
+        "space",
+        "ai"
+      ],
+      "keywords": [
+        "google",
+        "satellite",
+        "ai",
+        "space",
+        "haiku",
+        "technology",
+        "innovation"
+      ],
+      "sourceName": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/googles-project-suncatcher-achieves-first-successful-ai-response-from-space/articleshow/135388982.cms",
+      "publishedAt": "2026-10-30T23:37:23.000Z"
+    },
+    {
+      "id": "1f8161cb6dc6",
+      "opener": "NVIDIA's stock has been on such a wild ride lately, making everyone wonder if another split is coming.",
+      "followUpQuestion": "Do you think stock splits actually make a company more accessible to everyday investors, or is it just hype?",
+      "whyItMatters": "It touches on retail investing trends and whether high-flying tech stocks will remain within reach for everyday portfolios.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "finance",
+        "investing",
+        "stocks",
+        "technology"
+      ],
+      "keywords": [
+        "nvidia",
+        "stock split",
+        "market trends",
+        "tech stocks",
+        "investing",
+        "shares",
+        "company performance"
+      ],
+      "sourceName": "Abbo News -",
+      "sourceUrl": "https://abbonews.com/will-nvidia-stock-split-again-history-and-future-prospects/",
+      "publishedAt": "2026-10-30T23:36:52.000Z"
+    },
+    {
+      "id": "69278a3df628",
+      "opener": "Did you see where Nvidia's stock is projected to go by the end of the decade?",
+      "followUpQuestion": "Do you think tech hardware can keep up this kind of momentum, or are we heading for a cooldown?",
+      "whyItMatters": "Nvidia's market performance heavily influences the broader tech sector and future AI investments.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "tech",
+        "finance",
+        "markets"
+      ],
+      "keywords": [
+        "nvidia",
+        "stock",
+        "prediction",
+        "2030",
+        "market",
+        "technology",
+        "investment"
+      ],
+      "sourceName": "Abbo News -",
+      "sourceUrl": "https://abbonews.com/nvidia-stock-a-deep-dive-into-its-rise-predictions-for-the-next-decade/",
+      "publishedAt": "2026-10-30T23:36:43.000Z"
+    }
+  ]
+}
