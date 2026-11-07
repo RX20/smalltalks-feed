@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T12:34:26.872Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Finally getting some decent mid-spring weather in the city tomorrow, hitting the sixties.",
+      "followUpQuestion": "Do you have any outdoor plans to take advantage of the nice afternoon?",
+      "whyItMatters": "Everyone in the city is eager to ditch their heavy coats as temperatures climb.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "nyc",
+        "spring"
+      ],
+      "keywords": [
+        "new york",
+        "weather",
+        "forecast",
+        "spring",
+        "temperature",
+        "cloudy"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-11-07T12:30:44.279Z"
+    },
+    {
+      "id": "cfc8ab7c04b3",
+      "opener": "I saw this new local service, Cardinal Cremation, offering a much cheaper route than traditional funerals.",
+      "followUpQuestion": "Do you think people are finally moving away from those crazy expensive traditional burial costs?",
+      "whyItMatters": "Funeral planning is a major financial and emotional hurdle for many families today.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "finance",
+        "lifestyle"
+      ],
+      "keywords": [
+        "cremation",
+        "funeral",
+        "cost",
+        "family",
+        "planning",
+        "business"
+      ],
+      "sourceName": "Owensboro Messenger And Inquirer",
+      "sourceUrl": "https://www.messenger-inquirer.com/features/business/cardinal-cremation-offers-lower-cost-alternative-to-traditional-funerals/article_3de490d9-6eb9-58f9-b14d-5861c614cfc1.html",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "7918446cbf0a",
+      "opener": "I just read a fascinating guide on building code-driven exploded view animations for technical explainers entirely from scratch using pure SVG and JavaScript.",
+      "followUpQuestion": "Have you ever tried generating complex technical diagrams or UI motion graphics programmatically instead of using traditional 3D software?",
+      "whyItMatters": "It bridges the gap between engineering documentation and engaging short-form video content without needing heavy design tools.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "programming",
+        "animation",
+        "gamedev",
+        "design"
+      ],
+      "keywords": [
+        "javascript",
+        "svg",
+        "animation",
+        "technical-writing",
+        "visualization",
+        "motion-graphics",
+        "frontend"
+      ],
+      "sourceName": "Dev Community",
+      "sourceUrl": "https://dev.to/mohd_yusufkhan_6c2088c04/exploded-view-animation-in-code-make-how-it-works-explainer-reels-51bd",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "ccc9e62fc522",
+      "opener": "Have you heard that new track by Lizzy McAlpine yet?",
+      "followUpQuestion": "What has been your go-to song on that weekly new music roundup lately?",
+      "whyItMatters": "Sharing fresh music discoveries is an easy way to connect over current pop culture.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "music",
+        "pop culture"
+      ],
+      "keywords": [
+        "lizzy mcalpine",
+        "slayyyter",
+        "olivia rodrigo",
+        "new music",
+        "songs",
+        "album"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/lizzy-mcalpine-s-the-wheel-more-of-the-best-new-music-89629517",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "9a93f8fdc748",
+      "opener": "I saw a list of cozy winter styles that actually use fun prints instead of just plain neutrals.",
+      "followUpQuestion": "Are you trying to add more patterns to your cold-weather wardrobe, or do you stick to solid colors?",
+      "whyItMatters": "It offers a fun way to refresh winter outfits without sacrificing warmth.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "fashion",
+        "winter",
+        "style"
+      ],
+      "keywords": [
+        "cozy",
+        "winter",
+        "clothes",
+        "patterns",
+        "polka dots",
+        "stripes",
+        "wardrobe"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/15-editor-approved-cozy-pieces-that-are-anything-but-boring-89629516",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "1c850294493c",
+      "opener": "Ben James is just tearing it up down in Mexico, shooting another ridiculous round to grab the halfway lead.",
+      "followUpQuestion": "Do you usually follow amateur golf, or are you just keeping an eye on the big PGA events?",
+      "whyItMatters": "It highlights an emerging young talent making a big splash in international competition.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "golf",
+        "pga"
+      ],
+      "keywords": [
+        "ben james",
+        "golf",
+        "mexico",
+        "tournament",
+        "lead",
+        "sports",
+        "birdies"
+      ],
+      "sourceName": "The Sun Chronicle",
+      "sourceUrl": "https://www.thesunchronicle.com/zz/1/ben-james-produces-another-low-round-and-takes-the-36-hole-lead-in-mexico/article_09dc66ae-04cf-5459-be45-14672c5f0971.html",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "2d98d7a222fb",
+      "opener": "Researchers actually built a modern mirror chamber to test if they could induce ghostly visions.",
+      "followUpQuestion": "Would you ever step inside a room specifically designed to make you see spirits?",
+      "whyItMatters": "It blends psychology, technology, and our lifelong fascination with the paranormal.",
+      "mode": "social",
+      "categoryTags": [
+        "science",
+        "paranormal",
+        "psychology"
+      ],
+      "keywords": [
+        "psychomanteum",
+        "ghosts",
+        "science",
+        "mirrors",
+        "hallucinations",
+        "paranormal"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/scientists-used-a-psychomanteum-to-summon-ghostly-89629534",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "206448908704",
+      "opener": "Did you see that the biggest data center company in the world is hunting for more land in India to handle AI workloads?",
+      "followUpQuestion": "Do you think the massive push into AI infrastructure is going to keep accelerating at this pace?",
+      "whyItMatters": "It highlights the massive physical footprint and real estate demand required to power everyday AI applications.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "technology",
+        "ai"
+      ],
+      "keywords": [
+        "equinix",
+        "data centres",
+        "india",
+        "ai inference",
+        "real estate",
+        "technology",
+        "business"
+      ],
+      "sourceName": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/equinix-seeking-land-for-india-data-centres-ceo/articleshow/135617802.cms",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "115a2e120d9b",
+      "opener": "Did you see that Texas A&M just got a massive $325 million training ship?",
+      "followUpQuestion": "If you had to spend a semester living and learning on a massive ship, do you think you would actually enjoy it?",
+      "whyItMatters": "It highlights the massive investments being made to solve critical labor shortages in maritime industries.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "education",
+        "shipping",
+        "technology"
+      ],
+      "keywords": [
+        "texas a&m",
+        "training ship",
+        "maritime",
+        "cadets",
+        "college",
+        "navigation"
+      ],
+      "sourceName": "The Daily News",
+      "sourceUrl": "https://www.galvnews.com/news/texas-a-m-university-unveils-325-million-training-ship/article_be6e7754-d3f2-428a-a271-008500369e89.html",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "c031d9c539ae",
+      "opener": "Did you happen to check your horoscope today? Apparently the stars have some pretty wild advice for us heading into the weekend.",
+      "followUpQuestion": "Do you usually put any stock in what your sun sign predicts, or is it just pure entertainment for you?",
+      "whyItMatters": "Horoscopes are a fun, zero-stakes way to spark playful debate about personality traits and daily luck.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "astrology",
+        "lifestyle",
+        "horoscope"
+      ],
+      "keywords": [
+        "horoscope",
+        "astrology",
+        "sun sign",
+        "zodiac",
+        "forecast",
+        "stars"
+      ],
+      "sourceName": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/astrology/todays-horoscope-november-7-2026-check-horoscope-for-all-sun-signs-4210586",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "f37544e97ef8",
+      "opener": "I just started reading Sonia Gandhi's memoir, and her story about being totally dragged into politics against her will is wild.",
+      "followUpQuestion": "Could you ever see yourself stepping into a high-pressure career you spent your whole life trying to avoid?",
+      "whyItMatters": "It offers a rare, human look at duty, grief, and unexpected life turns for one of modern history's most private figures.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "books",
+        "biography",
+        "politics",
+        "memoir"
+      ],
+      "keywords": [
+        "sonia gandhi",
+        "belonging",
+        "memoir",
+        "politics",
+        "duty",
+        "biography",
+        "reading"
+      ],
+      "sourceName": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/books/excerpt-sonia-gandhi-memoir-belonging-family-duty-congress-party/article71655995.ece",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "34d295776254",
+      "opener": "High school football season is really heating up in Northwest Arkansas with Week 10 already here.",
+      "followUpQuestion": "Do you usually follow any of the local teams or go to the Friday night games?",
+      "whyItMatters": "It captures the local excitement of high school sports rivalries.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "high school football",
+        "local"
+      ],
+      "keywords": [
+        "football",
+        "high school",
+        "arkansas",
+        "sports",
+        "friday night",
+        "scoreboard",
+        "season"
+      ],
+      "sourceName": "Knwa Fox24",
+      "sourceUrl": "https://www.nwahomepage.com/fearless-friday/fearless-friday-nwa/fearless-friday-nwa-scoreboard-week-10-2/",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "494e8efae5d6",
+      "opener": "Did you see that Caesars brought back their ten-dollar no-deposit casino bonus this weekend?",
+      "followUpQuestion": "Do you ever actually try out those online casino sign-up deals when they pop up?",
+      "whyItMatters": "It highlights current promotional trends in the heavily competitive online gambling market.",
+      "mode": "social",
+      "categoryTags": [
+        "business",
+        "gambling",
+        "casino",
+        "promotions"
+      ],
+      "keywords": [
+        "caesars",
+        "casino",
+        "bonus",
+        "deposit",
+        "online",
+        "gambling",
+        "promotion"
+      ],
+      "sourceName": "Nj",
+      "sourceUrl": "https://www.nj.com/online-casinos/2026/11/the-caesars-casino-no-deposit-bonus-is-back-for-usa-players-in-nj-mi-wv-pa-this-weekend.html",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "0e32898d6e9e",
+      "opener": "Have you seen that Third Wave Coffee started doing these crazy experimental brews called Backroom Brews?",
+      "followUpQuestion": "Would you actually try a bizarre coffee creation, or do you prefer sticking to your usual order?",
+      "whyItMatters": "It highlights how traditional cafe chains are shifting toward experimental, luxury experiences to attract adventurous customers.",
+      "mode": "social",
+      "categoryTags": [
+        "tech",
+        "coffee",
+        "food and drink",
+        "lifestyle"
+      ],
+      "keywords": [
+        "coffee",
+        "third wave coffee",
+        "beverage",
+        "cafe",
+        "experimental",
+        "trend"
+      ],
+      "sourceName": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/cities/hyderabad/2026/Nov/07/third-wave-coffee-brewing-beyond-ordinary",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "7dfc5e6e03ca",
+      "opener": "I just saw the latest horoscope predictions for November, and apparently Jupiter in Leo is bringing some major lucky breaks for a few signs.",
+      "followUpQuestion": "Do you ever check your daily horoscope, or know what your sign is supposed to get?",
+      "whyItMatters": "Astrology trends and lucky breaks are a fun, lighthearted way to compare notes and spark a playful debate.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "astrology",
+        "horoscope",
+        "lifestyle"
+      ],
+      "keywords": [
+        "horoscope",
+        "astrology",
+        "zodiac",
+        "signs",
+        "november",
+        "jupiter",
+        "lucky"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNTc1WFlBSGIyOG1CeGJYd3paWUxDLUlhdkxCRHRaWERNX1lxY0l0QnVKblRwQ21ZLXFwWVdkd1J5em10M3dlTmlVSFZ2RXpXTXB5dklRUUZIOHNPR0RZZTlYQlFsejd4cmluZA?oc=5",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "5cc54622bdbb",
+      "opener": "I saw that travelers are flocking to Kerala just for authentic Ayurveda and wellness retreats.",
+      "followUpQuestion": "Would you ever travel somewhere strictly to focus on health and detoxing?",
+      "whyItMatters": "It highlights how wellness tourism is shifting from luxury pampering to deep traditional healing.",
+      "mode": "social",
+      "categoryTags": [
+        "viral",
+        "travel",
+        "wellness",
+        "india",
+        "health"
+      ],
+      "keywords": [
+        "kerala",
+        "ayurveda",
+        "travel",
+        "wellness",
+        "yoga",
+        "herbal",
+        "retreat"
+      ],
+      "sourceName": "Free Malaysia Today",
+      "sourceUrl": "https://www.freemalaysiatoday.com/category/leisure/2026/11/07/keralam-has-become-a-haven-for-ayurveda-seekers",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "b74da1645327",
+      "opener": "Did you see what went down on SmackDown before Crown Jewel?",
+      "followUpQuestion": "Who do you think is walking away with the win tomorrow night?",
+      "whyItMatters": "Big WWE pay-per-views always set up major storylines.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "wrestling",
+        "wwe"
+      ],
+      "keywords": [
+        "smackdown",
+        "crown jewel",
+        "wwe",
+        "wrestling",
+        "results",
+        "highlights"
+      ],
+      "sourceName": "Bleacherreport",
+      "sourceUrl": "https://bleacherreport.com/liveblogs/25529861-wwe-smackdown-live-updates-results-and-highlights-crown-jewel-2026",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "c0cc2f4ec8fc",
+      "opener": "Did you see Vietnam is aiming for a ten percent GDP growth rate by next year?",
+      "followUpQuestion": "Do you think emerging markets are generally becoming more aggressive with their financial goals?",
+      "whyItMatters": "It signals shifting economic ambitions and investment priorities in Southeast Asia.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "economy",
+        "vietnam"
+      ],
+      "keywords": [
+        "vietnam",
+        "gdp",
+        "growth",
+        "economy",
+        "targets",
+        "investment"
+      ],
+      "sourceName": "Vietnam+",
+      "sourceUrl": "https://en.vietnamplus.vn/vietnam-sets-key-economic-targets-for-2027-part-1-post354737.vnp",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "d5aed1254f14",
+      "opener": "Did you see that Mphasis had a surprisingly strong second quarter with profits jumping nearly twenty percent?",
+      "followUpQuestion": "Do you think IT firms are finally turning a corner after a rough patch?",
+      "whyItMatters": "It offers a quick pulse check on the current health of the tech services sector.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "business",
+        "earnings"
+      ],
+      "keywords": [
+        "mphasis",
+        "profit",
+        "growth",
+        "quarterly",
+        "bengaluru",
+        "revenue",
+        "tech",
+        "earnings"
+      ],
+      "sourceName": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-posts-19-6-growth-in-q2-profit-at-rs-561-1-crore/articleshow/135617708.cms",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "9e9ef987e10e",
+      "opener": "It turns out the new Zelda remake on the Switch 2 managed to track down the exact same artist who drew the original N64 maps.",
+      "followUpQuestion": "Do you think having the original team stick around for decades actually makes games better, or can it hold back fresh ideas?",
+      "whyItMatters": "It highlights how institutional knowledge and long-term staff shape the quality and nostalgia of modern video games.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "gaming",
+        "nintendo",
+        "zelda"
+      ],
+      "keywords": [
+        "zelda",
+        "nintendo",
+        "eiji aonuma",
+        "video games",
+        "game development",
+        "remake",
+        "continuity"
+      ],
+      "sourceName": "Nintendo Life",
+      "sourceUrl": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "1328fb16ccea",
+      "opener": "Did you see that aerobic gymnastics team from Newcastle is heading to the world championships after channeling pop icons?",
+      "followUpQuestion": "If you had to pick a pop star's routine for a world title, who would you choose?",
+      "whyItMatters": "It is a fun mix of pop culture and high-level competitive sports worth following.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "pop culture",
+        "dance"
+      ],
+      "keywords": [
+        "newcastle",
+        "aerobics",
+        "world championship",
+        "pop icons",
+        "gymnastics"
+      ],
+      "sourceName": "Newcastle Herald",
+      "sourceUrl": "https://www.newcastleherald.com.au/story/9385655/adamstown-aerobics-team-targets-worlds-with-spice-girls-act/?src=rss",
+      "publishedAt": "2026-11-07T00:30:00.000Z"
+    },
+    {
+      "id": "042da9e0fe8f",
+      "opener": "Did you see that two Chapman professors just landed major national leadership roles in healthcare education and aphasia research?",
+      "followUpQuestion": "What do you think is the biggest challenge in medical education right now?",
+      "whyItMatters": "It highlights local academic experts gaining national influence in vital health fields.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "education",
+        "healthcare"
+      ],
+      "keywords": [
+        "faculty",
+        "leadership",
+        "physician assistant",
+        "aphasia",
+        "research",
+        "education",
+        "chapman university"
+      ],
+      "sourceName": "Chapman University Blogs",
+      "sourceUrl": "https://blogs.chapman.edu/crean/2026/11/07/crean-college-faculty-national-leadership-appointments/",
+      "publishedAt": "2026-11-07T00:25:37.000Z"
+    },
+    {
+      "id": "22cf3560f8cc",
+      "opener": "Did you see that researchers figured out a way to check quantum computer states without ruining the data?",
+      "followUpQuestion": "Do you think quantum computing will actually change how we handle data anytime soon?",
+      "whyItMatters": "It tackles a major technical hurdle in building stable quantum computers.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "technology",
+        "physics"
+      ],
+      "keywords": [
+        "quantum computing",
+        "qubit",
+        "simulation",
+        "physics",
+        "technology",
+        "research"
+      ],
+      "sourceName": "Scitechdaily",
+      "sourceUrl": "https://scitechdaily.com/scientists-find-a-clever-way-to-read-quantum-information-without-destroying-it/",
+      "publishedAt": "2026-11-07T00:25:22.000Z"
+    }
+  ]
+}
