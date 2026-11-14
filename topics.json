@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:03:27.396Z",
+  "topics": [
+    {
+      "id": "4a343fc28252",
+      "opener": "Brrr, looks like New York is staying on the chilly side tomorrow with highs barely hitting seven degrees.",
+      "followUpQuestion": "Are you ready to fully embrace winter coat season, or are you dreading the cold?",
+      "whyItMatters": "Daily weather sets the tone for our commutes and weekend plans, making it an easy way to connect.",
+      "mode": "both",
+      "categoryTags": [
+        "weather",
+        "new york",
+        "seasons"
+      ],
+      "keywords": [
+        "weather",
+        "new york",
+        "temperature",
+        "cold",
+        "winter",
+        "forecast"
+      ],
+      "sourceName": "Open-Meteo",
+      "sourceUrl": "https://open-meteo.com/",
+      "publishedAt": "2026-11-14T13:00:11.100Z"
+    },
+    {
+      "id": "60da76eb50ed",
+      "opener": "Did you see that Fiji Airways had to keep a close eye on US airspace during that massive ground stop scare?",
+      "followUpQuestion": "Do you usually check flight status updates before traveling, or just roll with it?",
+      "whyItMatters": "It highlights how quickly sudden domestic aviation issues can ripple out to international carriers.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "travel",
+        "aviation",
+        "news"
+      ],
+      "keywords": [
+        "fiji airways",
+        "flights",
+        "us airspace",
+        "ground stop",
+        "travel disruption",
+        "san francisco",
+        "los angeles"
+      ],
+      "sourceName": "Fiji Sun",
+      "sourceUrl": "https://fijisun.com.fj/news/nation/fiji-airways-monitors-us-ground-stop-amid-possible-flight-disruptions",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "a0d291df1384",
+      "opener": "Did you see what happened with that massive SpaceX test? They almost caught the booster at the tower, but had to abort at the last second.",
+      "followUpQuestion": "Do you think reusable rockets like that are actually going to make Mars travel happen soon?",
+      "whyItMatters": "It highlights the incredible risks and rapid iteration behind humanity's push toward interplanetary travel.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "space",
+        "technology",
+        "spacex"
+      ],
+      "keywords": [
+        "spacex",
+        "starship",
+        "rocket",
+        "booster",
+        "mars",
+        "elon musk",
+        "satellites"
+      ],
+      "sourceName": "Slashdot",
+      "sourceUrl": "https://science.slashdot.org/story/26/11/14/0046259/spacex-falls-short-of-historic-double-starship-catch",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "c782eafc2cde",
+      "opener": "I just saw UGG released winter ballet sneakers, and I genuinely cannot decide if they are wildly fashionable or a total fashion crime.",
+      "followUpQuestion": "Where do you stand on the whole ugly-cute shoe trend?",
+      "whyItMatters": "Polarizing fashion trends are always a fun, low-stakes way to spark a playful debate.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "fashion",
+        "trends",
+        "style"
+      ],
+      "keywords": [
+        "ugg",
+        "ballet sneakers",
+        "winter fashion",
+        "ugly cute",
+        "shoes",
+        "trends",
+        "style"
+      ],
+      "sourceName": "E! Online",
+      "sourceUrl": "https://www.eonline.com/news/1438059/ugg-quill-ballet-sneakers-review-are-they-comfortable-worth-it",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "4c20d49dd8d2",
+      "opener": "Did you see how crazy the local highways were this week? Between the weather and the traffic incidents, it looked pretty treacherous out there.",
+      "followUpQuestion": "Do you usually have to commute through any of those rough spots during the winter?",
+      "whyItMatters": "Road safety and local travel conditions directly impact our daily commutes and schedules.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "local news",
+        "commute",
+        "weather"
+      ],
+      "keywords": [
+        "highway",
+        "traffic",
+        "commute",
+        "safety",
+        "weather",
+        "local news"
+      ],
+      "sourceName": "The Lewiston Tribune Online",
+      "sourceUrl": "https://www.lmtribune.com/lewiston-tribune-multimedia/trib-report-dangerous-week-on-highways-latah-county-recount-af8cc1c9",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "581ffaac2807",
+      "opener": "I saw this throwback piece about Alex Higgins playing an exhibition match in Bradford back in 1983. Total nostalgia trip for snooker fans.",
+      "followUpQuestion": "Do you remember watching any of those classic 1980s snooker matches?",
+      "whyItMatters": "It captures the golden era of snooker personalities and classic local sports history.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "history",
+        "nostalgia"
+      ],
+      "keywords": [
+        "snooker",
+        "alex higgins",
+        "bradford",
+        "richard dunn",
+        "1980s",
+        "sports history"
+      ],
+      "sourceName": "Telegraph & Argus",
+      "sourceUrl": "https://www.thetelegraphandargus.co.uk/news/26727495.bradford-sees-alex-higgins-face-kirk-stevens-richard-dunn/",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "80c0e2d9c090",
+      "opener": "Did you see they finally built lab fridges with internal sockets specifically for chromatography setups?",
+      "followUpQuestion": "How much of a headache is cable management in your lab equipment setups?",
+      "whyItMatters": "It highlights how niche hardware design can solve very specific daily frustrations for researchers.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "lab equipment",
+        "biotech"
+      ],
+      "keywords": [
+        "chromatography",
+        "refrigerator",
+        "laboratory",
+        "equipment",
+        "temperature control",
+        "research"
+      ],
+      "sourceName": "Chemeurope",
+      "sourceUrl": "https://www.chemeurope.com/en/products/127461/chromatography-refrigerator-laboratory.html",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "aeb01cb27756",
+      "opener": "Did you see that biotech firm Quantum-Si just handed out a bunch of stock units to new hires?",
+      "followUpQuestion": "Do you think equity grants are still the best way for growing tech companies to attract top talent?",
+      "whyItMatters": "It highlights current recruitment strategies and compensation trends in the biotech sector.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "biotech",
+        "compensation"
+      ],
+      "keywords": [
+        "quantum-si",
+        "stock units",
+        "recruitment",
+        "hiring",
+        "biotech",
+        "compensation",
+        "equity"
+      ],
+      "sourceName": "Financialcontent",
+      "sourceUrl": "https://www.financialcontent.com/article/gnwcq-2026-11-14-quantum-si-announces-inducement-grants-under-nasdaq-listing-rule-5635c4",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "18e56bd0bb0e",
+      "opener": "Did you see that wild rumor about Nvidia's CEO and an old-school spy tactic being used in tech now?",
+      "followUpQuestion": "Do you think corporate espionage like that is actually common today, or is it just tech industry drama?",
+      "whyItMatters": "It blends high-stakes corporate power dynamics with classic espionage tropes affecting the biggest chipmaker in the world.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "corporate",
+        "news"
+      ],
+      "keywords": [
+        "nvidia",
+        "jensen huang",
+        "ceo",
+        "tech industry",
+        "espionage",
+        "scandal"
+      ],
+      "sourceName": "Dt Next",
+      "sourceUrl": "https://www.dtnext.in/edit/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "5cb4e3f9766c",
+      "opener": "I saw another piece today about how GTA 6 is finally on the horizon after waiting over a decade.",
+      "followUpQuestion": "Do you think any game can actually live up to thirteen years of hype?",
+      "whyItMatters": "It taps into one of the biggest cultural anticipations in gaming history.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "gaming"
+      ],
+      "keywords": [
+        "gta 6",
+        "video games",
+        "gaming hype",
+        "rockstar",
+        "release date",
+        "pop culture"
+      ],
+      "sourceName": "Metro",
+      "sourceUrl": "https://metro.co.uk/2026/11/14/gta-6-worth-hype-will-worth-wait-readers-feature-29792134/",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "e86c66cdb51d",
+      "opener": "Did you see that Lauren Boebert lost her House race out in Colorado?",
+      "followUpQuestion": "Do you think switching districts was the main reason for the upset?",
+      "whyItMatters": "It marks a massive shift in a prominent congressional seat.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "politics",
+        "elections",
+        "colorado"
+      ],
+      "keywords": [
+        "lauren boebert",
+        "colorado",
+        "congressional race",
+        "election results",
+        "house of representatives"
+      ],
+      "sourceName": "Thecouriertimes.com",
+      "sourceUrl": "https://www.thecouriertimes.com/news/national/republican-incumbent-loses-colorado-congressional-race/article_f07b2047-7641-5d77-bd5e-4276ff1cb265.html",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "4f7fdebcf969",
+      "opener": "Did you see how quickly New Zealand dismantled India's batting lineup in that latest ODI?",
+      "followUpQuestion": "Do you think India needs to completely rethink their squad strategy before the 2027 World Cup?",
+      "whyItMatters": "It highlights major concerns for one of the tournament favorites and shakes up the international cricket landscape.",
+      "mode": "social",
+      "categoryTags": [
+        "sports",
+        "cricket",
+        "india",
+        "new zealand"
+      ],
+      "keywords": [
+        "matt henry",
+        "india cricket",
+        "odi world cup",
+        "batting collapse",
+        "new zealand",
+        "gambhir"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0xLZVR1VHR3OGZ4RnU5TjNzdkhuNUU1akE5SnQtLWdvbEQtYjFiUmx3VFNvUVpZekpIY0pwdVc2d1RRNXRsTXBXVnlJdWpkVlJiZWNmX3JQb1JiTkVEVkIzU3hpaExqX19kY05WazY1YldxUlViTkx6RjVjQmpDdkJpSEwwTHlvYlBFYW8tX1hQYlMzZXc0dGQ1TlE2UkFfSlZrazlpZXFjY01DQU5zdWJ6ZlhLeE11d0ZYSnByRXQyNUVGbUs5bi1SRUJldHFhaXZYNWF6UjB1c2QyOXBycnZIWVk4c2tlUjladDZYQVBtQUtYOFpweGdnOVhhUEZNU3BVejg3SQ?oc=5",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "107fca6c5e77",
+      "opener": "Did you see that a Singaporean start-up is using natural peptides instead of harsh chemicals to treat infections in cats and dogs?",
+      "followUpQuestion": "Do you think pet owners are willing to pay more for biological treatments over traditional chemical ones?",
+      "whyItMatters": "It highlights how biotechnology is expanding into everyday pet care and veterinary medicine.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "pets",
+        "biotech",
+        "animals",
+        "health"
+      ],
+      "keywords": [
+        "peptides",
+        "pets",
+        "dogs",
+        "cats",
+        "infections",
+        "singapore",
+        "start-up",
+        "veterinary"
+      ],
+      "sourceName": "Straitstimes",
+      "sourceUrl": "https://www.straitstimes.com/singapore/health/singapore-start-up-taps-peptide-power-to-tackle-pet-infections-seeks-to-replace-chemical",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "93d9cb3ec714",
+      "opener": "I was just reading about how picking the right Canadian bank and energy stocks can add an extra $750 a month to retirement funds.",
+      "followUpQuestion": "Do you usually rely on steady dividend stocks, or are you more into growth investments for retirement?",
+      "whyItMatters": "Finding reliable ways to supplement retirement income is a universal goal for long-term financial planning.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "finance",
+        "retirement",
+        "investing"
+      ],
+      "keywords": [
+        "dividends",
+        "canada",
+        "retirement",
+        "stocks",
+        "income",
+        "cpp",
+        "investing"
+      ],
+      "sourceName": "Fool Canada",
+      "sourceUrl": "https://www.fool.ca/2026/11/13/retiring-in-canada-create-750-month-in-dividend-income-to-supplement-cpp/",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "e1740fe707ba",
+      "opener": "Did you see that wild trick where people are using flashlights to steal game codes right through the PS5 cases?",
+      "followUpQuestion": "Do you usually buy physical discs, or have you gone completely digital to avoid stuff like that?",
+      "whyItMatters": "It highlights a bizarre physical security flaw in retail game packaging.",
+      "mode": "social",
+      "categoryTags": [
+        "tech",
+        "gaming",
+        "security"
+      ],
+      "keywords": [
+        "gta 6",
+        "ps5",
+        "flashlights",
+        "retail",
+        "game codes",
+        "security flaw",
+        "physical copies"
+      ],
+      "sourceName": "Push Square",
+      "sourceUrl": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "21e2b20b2ff3",
+      "opener": "Did you see that story about the 17-year-old acting like a local politician and doing neighborhood walkabouts?",
+      "followUpQuestion": "Would you have had the confidence to do something like that when you were a teenager?",
+      "whyItMatters": "It highlights extraordinary youth leadership and community engagement.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "news",
+        "community",
+        "youth"
+      ],
+      "keywords": [
+        "teenager",
+        "politics",
+        "neighborhood",
+        "leadership",
+        "community",
+        "local"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "0bd06a2534fd",
+      "opener": "Did you see that the 76ers might have just lucked into the exact center depth they desperately needed?",
+      "followUpQuestion": "Do you think this new signing is actually going to be enough to take some real pressure off Joel Embiid?",
+      "whyItMatters": "Frontcourt depth is crucial for keeping Embiid healthy and playoff-ready.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "basketball",
+        "nba"
+      ],
+      "keywords": [
+        "76ers",
+        "joel embiid",
+        "center",
+        "basketball",
+        "roster",
+        "nba",
+        "signing"
+      ],
+      "sourceName": "Sports Illustrated",
+      "sourceUrl": "https://www.si.com/nba/76ers/onsi/new-center-depth-option-fell-right-76ers-lap-time-of-need-01m7b68p9abf",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "82643ff4bd57",
+      "opener": "Did you see WSP Global took a hit this year, even though their project backlog is at an all-time high?",
+      "followUpQuestion": "Do you usually look at market dips as a buying opportunity, or is it a red flag for you?",
+      "whyItMatters": "It highlights the disconnect between short-term stock drops and strong underlying business fundamentals.",
+      "mode": "both",
+      "categoryTags": [
+        "business",
+        "investing",
+        "stocks",
+        "finance"
+      ],
+      "keywords": [
+        "wsp global",
+        "canadian stock",
+        "tsx",
+        "investing",
+        "market dip",
+        "buy and hold",
+        "finance"
+      ],
+      "sourceName": "Fool Canada",
+      "sourceUrl": "https://www.fool.ca/2026/11/13/1-no-brainer-buy-and-hold-canadian-stock-4/",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "7ebe4c374aaa",
+      "opener": "Kia is finally rolling out that smaller, cheaper EV everyone has been waiting for.",
+      "followUpQuestion": "Do you think more affordable models are what it will finally take to get people to switch to electric?",
+      "whyItMatters": "It marks a major shift toward budget-friendly electric vehicles for everyday drivers.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "electric vehicles",
+        "cars",
+        "technology"
+      ],
+      "keywords": [
+        "kia",
+        "ev2",
+        "electric vehicles",
+        "affordable",
+        "cars",
+        "transportation",
+        "automotive"
+      ],
+      "sourceName": "Yorkshiretimes Co Uk",
+      "sourceUrl": "https://yorkshiretimes.co.uk/article/Kias-EV2--A-Week-Behind-The-Wheel",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "bdbd3b7fdcb3",
+      "opener": "Did you see that interview with the Car Bomb bassist about finally touring with Meshuggah?",
+      "followUpQuestion": "Do you think it's better for bands to stay completely independent like they did or stick with a label?",
+      "whyItMatters": "It highlights the grind of underground metal bands making their own rules.",
+      "mode": "social",
+      "categoryTags": [
+        "entertainment",
+        "music",
+        "metal",
+        "interviews"
+      ],
+      "keywords": [
+        "car bomb",
+        "meshuggah",
+        "bass",
+        "tour",
+        "independent",
+        "metal",
+        "guitar world"
+      ],
+      "sourceName": "Guitar World",
+      "sourceUrl": "https://www.guitarworld.com/artists/bassists/car-bomb-bassist-jon-modell-on-chasing-a-support-slot-with-meshuggah",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "df9fe6601fce",
+      "opener": "It looks like Thackley finally got back on the pitch and put on quite a show with those late goals.",
+      "followUpQuestion": "Did you manage to catch any of the local non-league action this weekend?",
+      "whyItMatters": "It captures the excitement of local teams returning to form after a long break.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "football",
+        "local sports"
+      ],
+      "keywords": [
+        "thackley",
+        "fc farsley",
+        "football",
+        "match",
+        "goals",
+        "sports"
+      ],
+      "sourceName": "Ilkley Gazette",
+      "sourceUrl": "https://www.ilkleygazette.co.uk/sport/26728689.thackley-ilkley-enjoy-big-wins-womens-football/",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "id": "57cecf6ffc10",
+      "opener": "Did you see that new AI agent scored over forty on that computational biology test?",
+      "followUpQuestion": "Do you think these specialized models are actually going to speed up lab discoveries anytime soon?",
+      "whyItMatters": "It highlights the rapid progress of autonomous AI agents tackling complex biological research.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "ai",
+        "biology",
+        "tech"
+      ],
+      "keywords": [
+        "ai agent",
+        "computational biology",
+        "frontierbioml",
+        "prime intellect",
+        "research",
+        "machine learning"
+      ],
+      "sourceName": "Digg",
+      "sourceUrl": "https://digg.com/ai/rxph9x89",
+      "publishedAt": "2026-11-14T00:55:13.000Z"
+    },
+    {
+      "id": "b84616733e38",
+      "opener": "Did you see that new gene therapies for hemophilia might actually free patients from lifelong infusions with just a single shot?",
+      "followUpQuestion": "Do you think single-dose genetic treatments like this will become the standard for managing chronic conditions soon?",
+      "whyItMatters": "It highlights a massive shift in medicine from lifelong symptom management to one-time curative treatments.",
+      "mode": "work",
+      "categoryTags": [
+        "science",
+        "health",
+        "medicine"
+      ],
+      "keywords": [
+        "gene therapy",
+        "hemophilia",
+        "health",
+        "medicine",
+        "biotech",
+        "clinical trials",
+        "fda"
+      ],
+      "sourceName": "Businessworld Healthcare World",
+      "sourceUrl": "https://www.bwhealthcareworld.com/article/gene-therapy-for-hemophilia-what-hematologists-need-to-tell-patients-554192",
+      "publishedAt": "2026-11-14T00:53:06.000Z"
+    }
+  ]
+}
