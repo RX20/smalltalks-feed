@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T14:20:18.271Z",
+  "topics": [
+    {
+      "id": "23cace498dfe",
+      "opener": "Did you see that awful news about the violent fight at a Chicago high school?",
+      "followUpQuestion": "How do you think schools and communities can actually put a stop to that kind of severe retaliation?",
+      "whyItMatters": "It highlights escalating youth violence and the urgent need for better safety and intervention in schools.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "news",
+        "education",
+        "community"
+      ],
+      "keywords": [
+        "chicago",
+        "high school",
+        "student",
+        "violence",
+        "community activists",
+        "coma",
+        "safety"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/savage-beating-at-chicago-high-school-leaves-student-in-90047975",
+      "publishedAt": "2026-11-21T02:16:00.000Z"
+    },
+    {
+      "id": "97b9d341735b",
+      "opener": "Did you see that a director over at Ondas just offloaded about twenty-one grand in company stock?",
+      "followUpQuestion": "Do you usually pay attention to insider stock sales when deciding how to feel about a company's prospects?",
+      "whyItMatters": "Insider stock transactions often spark curiosity about leadership's confidence in their own firm.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "stocks",
+        "finance"
+      ],
+      "keywords": [
+        "ondas",
+        "stock sale",
+        "director",
+        "shares",
+        "insider trading",
+        "market"
+      ],
+      "sourceName": "Investing Us",
+      "sourceUrl": "https://www.investing.com/news/insider-trading-news/ondas-director-richard-m-cohen-sells-21032-in-company-stock-93CH-5043055",
+      "publishedAt": "2026-11-21T02:16:00.000Z"
+    },
+    {
+      "id": "245181cba019",
+      "opener": "Did you hear the mayor held a big ceremony just to ban horse carriages in Central Park?",
+      "followUpQuestion": "Do you think getting rid of them is actually the right move for the city?",
+      "whyItMatters": "It is a major policy shift affecting a long-standing tourism tradition in the city.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "politics",
+        "local news",
+        "animals"
+      ],
+      "keywords": [
+        "mayor",
+        "central park",
+        "horse carriages",
+        "ban",
+        "city hall",
+        "zohran mamdani",
+        "new york"
+      ],
+      "sourceName": "Headtopics",
+      "sourceUrl": "https://us.headtopics.com/news/mamdani-just-declared-himself-as-another-grubby-grasping-90047966",
+      "publishedAt": "2026-11-21T02:16:00.000Z"
+    },
+    {
+      "id": "973df5facac3",
+      "opener": "Did you see how fast they cleared up that massive port congestion issue?",
+      "followUpQuestion": "Do you think businesses will actually feel the relief in their supply chains soon?",
+      "whyItMatters": "It highlights how decisive government leadership can quickly impact national supply chains and business operations.",
+      "mode": "work",
+      "categoryTags": [
+        "business",
+        "supply chain",
+        "logistics"
+      ],
+      "keywords": [
+        "port congestion",
+        "benhur abalos",
+        "business",
+        "supply chain",
+        "logistics",
+        "shipping",
+        "trade"
+      ],
+      "sourceName": "Philstar.com",
+      "sourceUrl": "https://www.philstar.com/biz-memos/2026/11/21/2571670/business-groups-hail-swift-action-port-congestion",
+      "publishedAt": "2026-11-21T02:16:00.000Z"
+    },
+    {
+      "id": "5eb3addb4c3e",
+      "opener": "Brace yourselves, Calgary, because the weekend forecast is taking a seriously freezing turn.",
+      "followUpQuestion": "Do you have any cozy indoor plans to escape the chill, or are you brave enough to head outside?",
+      "whyItMatters": "Weather shifts instantly change weekend plans and mood for everyone in the city.",
+      "mode": "both",
+      "categoryTags": [
+        "viral",
+        "weather",
+        "local",
+        "weekend"
+      ],
+      "keywords": [
+        "calgary",
+        "weather",
+        "cold",
+        "weekend",
+        "forecast",
+        "winter",
+        "chilly"
+      ],
+      "sourceName": "Ctv News",
+      "sourceUrl": "https://www.ctvnews.ca/calgary/article/bundle-up-for-a-chilly-weekend-in-calgary/",
+      "publishedAt": "2026-11-21T02:16:00.000Z"
+    },
+    {
+      "id": "e067c4062faa",
+      "opener": "Did you see how dominant Oklahoma State was against Little Rock, putting up over a hundred points?",
+      "followUpQuestion": "Do you think putting up those kinds of numbers early in the season really shows they are a title threat?",
+      "whyItMatters": "It highlights an explosive offensive performance and a strong start for the team.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "basketball",
+        "college sports"
+      ],
+      "keywords": [
+        "oklahoma state",
+        "little rock",
+        "audi crooks",
+        "basketball",
+        "cowgirls",
+        "score"
+      ],
+      "sourceName": "Yardbarker",
+      "sourceUrl": "https://www.yardbarker.com/college_basketball_w/articles/no_25_oklahoma_state_beats_little_rock_103_61_as_crooks_scores_20/s1_17668_44594497",
+      "publishedAt": "2026-11-21T02:15:56.000Z"
+    },
+    {
+      "id": "581c3a7dd8ef",
+      "opener": "My inbox is already getting flooded with Black Friday previews and holiday sales pitches.",
+      "followUpQuestion": "Have you started seeing any early shopping deals yet, or are you holding off until November?",
+      "whyItMatters": "It marks the unofficial kickoff to the intense seasonal retail and marketing rush.",
+      "mode": "social",
+      "categoryTags": [
+        "business",
+        "shopping",
+        "holidays",
+        "retail"
+      ],
+      "keywords": [
+        "black friday",
+        "cyber monday",
+        "sales",
+        "deals",
+        "inbox",
+        "holidays",
+        "shopping"
+      ],
+      "sourceName": "Stock Charts",
+      "sourceUrl": "https://articles.stockcharts.com/article/dont-let-the-market-selloff-distract-you-from-this-opportunity/",
+      "publishedAt": "2026-11-21T02:15:48.000Z"
+    },
+    {
+      "id": "2111d72feaed",
+      "opener": "Have you been following what's going on with Opendoor lately? Their stock has been making some wild moves.",
+      "followUpQuestion": "Do you think retail traders jumping into things like this is usually a sign of a real comeback or just a quick flash in the pan?",
+      "whyItMatters": "It highlights how retail trading trends and corporate warrants can suddenly collide to drive massive market volatility.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "stocks",
+        "trading"
+      ],
+      "keywords": [
+        "opendoor",
+        "stocks",
+        "trading",
+        "retail investors",
+        "market volatility",
+        "finance",
+        "dilution"
+      ],
+      "sourceName": "Biztoc",
+      "sourceUrl": "https://biztoc.com/x/a25262a5e3f89386",
+      "publishedAt": "2026-11-21T02:15:46.000Z"
+    },
+    {
+      "id": "f77d7bfe2210",
+      "opener": "Looks like the Astros are already shaking up their roster for next season.",
+      "followUpQuestion": "Do you think letting Taylor Trammell go is the right first move for the new management?",
+      "whyItMatters": "It marks the start of a new era and philosophy for the team under fresh leadership.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "baseball",
+        "mlb",
+        "astros"
+      ],
+      "keywords": [
+        "astros",
+        "taylor trammell",
+        "roster",
+        "mlb",
+        "baseball",
+        "front office"
+      ],
+      "sourceName": "Yahoo! News",
+      "sourceUrl": "https://sports.yahoo.com/articles/astros-non-tender-taylor-trammell-021542546.html",
+      "publishedAt": "2026-11-21T02:15:42.000Z"
+    },
+    {
+      "id": "b0b90095f3da",
+      "opener": "Did you see Google's new AI model, Gemini Neon? They're claiming it beats top performance while slashing costs by up to eighty percent.",
+      "followUpQuestion": "Do you think this aggressive pricing will finally force other tech giants to drop their API rates?",
+      "whyItMatters": "It signals a major shift toward cheaper, high-performance AI models that could speed up industry adoption.",
+      "mode": "work",
+      "categoryTags": [
+        "tech",
+        "artificial intelligence",
+        "tech news"
+      ],
+      "keywords": [
+        "google",
+        "gemini neon",
+        "artificial intelligence",
+        "api costs",
+        "frontier performance",
+        "machine learning"
+      ],
+      "sourceName": "Digg",
+      "sourceUrl": "https://digg.com/ai/o5tdfi24",
+      "publishedAt": "2026-11-21T02:15:39.000Z"
+    },
+    {
+      "id": "bcee3df7d89c",
+      "opener": "Did you see that George Soros massively upped his stake in Meta just before the stock took a dive?",
+      "followUpQuestion": "Would you ever follow a billionaire's stock moves, or do you think that strategy is too risky?",
+      "whyItMatters": "It highlights the unpredictable nature of high-stakes investing, even for market legends.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "finance",
+        "stocks"
+      ],
+      "keywords": [
+        "george soros",
+        "meta",
+        "stocks",
+        "investing",
+        "billionaires",
+        "shares",
+        "market"
+      ],
+      "sourceName": "Biztoc",
+      "sourceUrl": "https://biztoc.com/x/6d0dcf9ead85bb86",
+      "publishedAt": "2026-11-21T02:15:34.000Z"
+    },
+    {
+      "id": "ae8c6006aa64",
+      "opener": "Wisconsin basketball just had another totally flat first half down in the Bahamas. I guess the island weather didn't help them wake up.",
+      "followUpQuestion": "Do you think teams actually get distracted playing in early season destination tournaments like that?",
+      "whyItMatters": "It highlights how early-season college basketball expectations can completely unravel when teams travel.",
+      "mode": "both",
+      "categoryTags": [
+        "sports",
+        "college basketball",
+        "wisconsin badgers"
+      ],
+      "keywords": [
+        "wisconsin",
+        "bahamas",
+        "basketball",
+        "tournament",
+        "sports",
+        "college"
+      ],
+      "sourceName": "Sports Illustrated",
+      "sourceUrl": "https://www.si.com/college/wisconsin/basketball/beach-bummed-wisconsin-fails-to-deliver-in-the-bahamas-with-another-no-show-first-half",
+      "publishedAt": "2026-11-21T02:15:26.000Z"
+    },
+    {
+      "id": "03638cf78055",
+      "opener": "Did you see that wild story about the Air Niugini flight having to make a sudden emergency landing in the Philippines?",
+      "followUpQuestion": "How do you usually stay calm if you ever face unexpected travel delays or scares?",
+      "whyItMatters": "It highlights the importance of rigorous aviation safety protocols and quick crew responses during mid-flight emergencies.",
+      "mode": "both",
+      "categoryTags": [
+        "tech",
+        "aviation",
+        "travel",
+        "safety"
+      ],
+      "keywords": [
+        "air niugini",
+        "emergency landing",
+        "philippines",
+        "engine fire",
+        "aviation",
+        "travel safety",
+        "passengers"
+      ],
+      "sourceName": "Newsday",
+      "sourceUrl": "https://www.newsday.com/news/nation/air-niugini-emergency-landing-davao-city-philippines-o44866",
+      "publishedAt": "2026-11-21T02:15:22.000Z"
+    },
+    {
+      "id": "bd159ef7eccf",
+      "opener": "Did you see that massive new Pokémon Blu-ray box set coming out with all twenty-four movies?",
+      "followUpQuestion": "Which of the movies from the original run was your absolute favorite?",
+      "whyItMatters": "Nostalgia and pop culture milestones make for universally fun pop culture debates.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "anime",
+        "movies",
+        "collectibles"
+      ],
+      "keywords": [
+        "pokémon",
+        "blu-ray",
+        "movies",
+        "viz media",
+        "amazon",
+        "animation",
+        "nostalgia",
+        "collection"
+      ],
+      "sourceName": "Polygon",
+      "sourceUrl": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+      "publishedAt": "2026-11-21T02:15:17.000Z"
+    },
+    {
+      "id": "328a5245562c",
+      "opener": "Did you see the latest local bestseller list yet?",
+      "followUpQuestion": "Have you read any of the books that made it to the top rankings this week?",
+      "whyItMatters": "It is a great way to discover fresh reading recommendations and popular cultural trends.",
+      "mode": "both",
+      "categoryTags": [
+        "entertainment",
+        "books",
+        "reading",
+        "bestsellers"
+      ],
+      "keywords": [
+        "books",
+        "bestsellers",
+        "fiction",
+        "non-fiction",
+        "reading",
+        "novels",
+        "literature"
+      ],
+      "sourceName": "Straitstimes",
+      "sourceUrl": "https://www.straitstimes.com/life/arts/the-straits-times-weekly-bestsellers-nov-21",
+      "publishedAt": "2026-11-21T02:15:00.000Z"
+    },
+    {
+      "id": "2bdb31f0de32",
+      "opener": "Can you imagine waiting eight whole years just for a telescope to finally turn on?",
+      "followUpQuestion": "What is the longest you have ever waited for a project or gadget to finally launch?",
+      "whyItMatters": "It highlights the immense patience and high-stakes engineering behind deep space exploration.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "space",
+        "astronomy"
+      ],
+      "keywords": [
+        "telescope",
+        "space",
+        "mercury",
+        "bepicolombo",
+        "orbit",
+        "science"
+      ],
+      "sourceName": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DVVhGVkMzMFlMUDU2WnlNdjFlRjM1Nms5TzRFR1dRQkdncktXbG5Eb3ZPYTJiVmJLQnhBcE5Rd19NTEhrRUVKa3E5WTRGU3owelVpdVFGLXZVamh6WlFmX2hDZ1lhLXlWSXhabnZjRQ?oc=5",
+      "publishedAt": "2026-11-21T02:13:55.000Z"
+    },
+    {
+      "id": "9725beda2025",
+      "opener": "Did you see that a dozen Nigerian universities just cracked the global engineering rankings for 2026?",
+      "followUpQuestion": "Which school do you think took the top spot?",
+      "whyItMatters": "It highlights shifting global standards and rising academic excellence in engineering.",
+      "mode": "both",
+      "categoryTags": [
+        "science",
+        "education",
+        "engineering",
+        "nigeria",
+        "rankings"
+      ],
+      "keywords": [
+        "university",
+        "engineering",
+        "ranking",
+        "nigeria",
+        "education",
+        "global",
+        "2026"
+      ],
+      "sourceName": "Legit Nigeria",
+      "sourceUrl": "https://www.legit.ng/education/1742539-12-nigerian-universities-ranked-globally-engineering-2026-full-list-ranking-bands/",
+      "publishedAt": "2026-11-21T02:13:32.000Z"
+    }
+  ]
+}
